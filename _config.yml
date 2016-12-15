@@ -17,7 +17,7 @@ sass:
 # Setup
 title:            'MICRO 50 Website'
 description:      'Arrvindh Shriraman'
-baseurl:          'http://ashriram.github.io/micro50/'
+baseurl:          'https://ashriram.github.io/micro50/'
 
 
 #paginate:         5
