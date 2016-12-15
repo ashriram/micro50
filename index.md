@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MICRO
+title: 
 ---
 
 <div class="row">
@@ -59,7 +59,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 -------------------------------------------------------------------------------
 
 
-##We thank our generous sponsors
+<h2> We thank our generous sponsors </h2>
 
 
 <table width="806" height="86" border="0" align="center">
