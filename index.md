@@ -7,6 +7,7 @@ title:
     <div class="col-md-6">
       <h1>MICRO 50 @ Boston </h1>
       <p> The 47th Annual IEEE/ACM International Symposium on Microarchitecture, 2017</p>
+      <p> Hotel: Hyatt Regency Cambridge <a href="https://cambridge.regency.hyatt.com"> Link to hotel </a></p>
       <table>
   <thead>
     <tr>
@@ -17,22 +18,22 @@ title:
     <tr>
       <td><mark>Abstract</mark></td>
       <td> </td>
-      <td><mark>Tentative: May 15th, 2015 at 11:59pm EDT</mark></td>
+      <td><mark> March 28th, 2017 at 11:59pm EDT</mark></td>
     </tr>
     <tr>
       <td><mark>Full Paper</mark></td>
       <td> </td>
-      <td><mark>Tentative: May 22nd, 2015 at 11:59pm EDT</mark></td>
+      <td><mark>April 4th, 2017 at 11:59pm EDT</mark></td>
     </tr>
     <tr>
-      <td><mark>Rebuttal</mark></td>
+      <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
-      <td><mark>TBA</mark></td>
+      <td><mark> June 1st --- June 14th, 2017 </mark> (MICRO 2017 will be using the MICRO 2015 journal style response period (<a href = "{{ site.baseurl }}/micro50/Review/"> refer here </a>) </td>
     </tr>
     <tr>
       <td><mark>Notification</mark></td>
       <td> </td>
-      <td><mark>TBA</mark></td>
+      <td><mark> July 5th, 2017</mark></td>
     </tr>
   </tbody>
 </table>

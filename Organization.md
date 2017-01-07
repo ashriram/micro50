@@ -6,19 +6,18 @@ title: Organization Committee
 |----------------------------------| --------------------|-------------------------|---|
 | **General Co-Chairs**                | Hillery Hunter     | IBM Research            |   |
 |                                      | Jaime Moreno       | IBM Research            |   |
-| **Program Co-Chairs**                | Joel Emer          | MIT and NVIDIA          |   |
+| **Program Co-Chairs**                | Joel Emer          | NVIDIA and MIT          |   |
 |                                      | Daniel Sanchez     | MIT                     |   |
 | **Tutorial/Workshop Co-Chairs**      | Aamer Jaleel       | NVIDIA                  |   |
 |                                      | Angshuman Parashar | NVIDIA                  |   |
 | **Finance Chair**                    | Augusto Vega       | IBM Research            |   |
-| **Submissions Chair**                | From PC chairs     |                         |   |
+| **Submissions Chair**                | Mark Jeffrey and Po-An Tsai     |    MIT     |   |
 | **Web Chair**                        | Arrvindh Shriraman | Simon Fraser University |   |
 | **Publicity Chair**                  | Ramon Bertran      | IBM Reserch             |   |
-| **Registration Chair**               |                    |                         |   |
+| **Registration Chair**               | Michel Kinsy       | Boston University       |   |
 | **Local Arrangements Chair**         | Mark Hempstead     | Tufts                   |   |
 | **Publications Chair**               | Xiaochen Guo       | Lehigh University       |   |
 | **Industrial Liaison**               |                    |                         |   |
-| **Twitter Chair**                    |                    |                         |   |
 | **Student Liaison / Travel Award**  | David Wentzlaff    | Princeton University    |   |
 |   ***Steering Committee*** |  | |
 |   |Richard Belgard (Chair)|  Consultant |

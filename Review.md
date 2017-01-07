@@ -4,8 +4,10 @@ title: Review Model
 ---
 
 
+<mark> MICRO 2017 will use a revision-based review process like similar to MICRO 2015. This document is derived from the MICRO 2015. </mark>
 
-This webpage outlines the review process for MICRO 2015. MICRO 2015 will extend the rebuttal period to three weeks. Authors of highly ranked papers (those that are likely to be discussed at the PC meeting) will be recommended to submit a revised version of the paper based on the suggestions/concerns of the reviewers. The review process remains unchanged for the papers that are unlikely to be discussed at the PC meeting (rank 80+ and no champion), whereby the authors are recommended to submit a rebuttal only. We discuss the timeline for the review process, and describe the details and decisions during each part of the review process.
+
+This webpage outlines the review process for MICRO 2017. MICRO 2017 will extend the rebuttal period to two weeks (MICRO 2015 set the response period to 3 weeks). Authors of highly ranked papers (those that are likely to be discussed at the PC meeting) will be recommended to submit a revised version of the paper based on the suggestions/concerns of the reviewers. The review process remains unchanged for the papers that are unlikely to be discussed at the PC meeting (rank 80+ and no champion), whereby the authors are recommended to submit a rebuttal only. We discuss the timeline for the review process, and describe the details and decisions during each part of the review process.
 
 ## Introduction
 
@@ -14,48 +16,48 @@ This webpage outlines the review process for MICRO 2015. MICRO 2015 will extend 
 One of the objectives of a good review process is to provide feedback to the authors that allows them improve the quality of their submissions. In the reviewing model currently employed at our conferences, the reviewers provide a list of concerns to the authors, and the authors have only a limited way to respond, in the form of a rebuttal. The tone of rebuttal typically is to clarify the misconceptions of reviewers. However, the authors are explicitly prohibited from adding any new content to the paper, so they are unable to demonstrate how they have specifically addressed the concerns provided by the reviewers. In the proposed review model, we seek to provide the authors a window of three weeks in which they can revise the paper to address the concerns, and incorporate the suggestions, of the reviewers. This is not unlike the review model used in Journals, except that this is a single-shot revision rather than having several rounds of interactions between the reviewers and the authors. Such single-shot revision has been incorporated at top conferences in other fields, such as the International Conference on Very Large Data Bases (VLDB), with great success. The figure below captures the overall review process for MICRO 2017.
 
 The key dates for MICRO 2017 are as follows: 
-* [Submission deadline for full paper: May 22 (11:59 pm EDT)](#1)
-* [Reviews due from PC/ERC: July 10 ](#2)
-* [Discussion between reviewers: July 13-17 ](#3)
-*  [Determine recommendation for revision/rebuttal: July 18-19 ](#3)
-*  [Reviews released to authors: July 20 ](#4)
-*  [Deadline for rebuttal and revision: August 10 ](#5)
-*  [Reviewers read revision/rebuttal: Aug 11-20  ](#6)
-*  [Online discussion period: Aug 21-26 ](#6)
-*  [PC meeting in Atlanta: Aug 29-30 ](#7)
-* .[Final decision communicated to authors: Sep 3](#8)
+* [Submission deadline for full paper: April 4th (11:59 pm EDT)](#1)
+* [Reviews due from PC/ERC](#2)
+* [Discussion between reviewers](#3)
+*  [Determine recommendation for revision/rebuttal](#3)
+*  [Reviews released to authors: June 1st ](#4)
+*  [Deadline for rebuttal and revision: June 14](#5)
+*  [Reviewers read revision/rebuttal: June 16 - June 21](#6)
+*  [Online discussion period: June 21-26 ](#6)
+*  [PC meeting in Atlanta: June 29-30 ](#7)
+* .[Final decision communicated to authors: July 5th](#8)
 
 <!-- -->
 
-1. <a name="1"></a>**Submission Deadline (May 22, 11:59pm EDT)** 
+1. <a name="1"></a>**Submission Deadline (April 4th, 11:59pm EDT)** 
 The submission deadline for MICRO 2015 is approximately one week earlier than the submission deadline for MICRO 2014, in order to accommodate the proposed three-week revision period. The page limit will be 11 pages for text and unlimited space for references. The submission format that we provide will be identical to the camera-ready version, in order to avoid the time to port from submission version to camera-ready version for the accepted papers.  
 
-2. <a name="2"></a>:**Review Period (May 28 to July 10)**
+2. <a name="2"></a>:**Review Period (April 4th to June 1st)**
 The PC chair will strive to allocate all reviews within six days of the submission deadline. Each paper will be assigned five reviews: 3 from PC and 2 from ERC. The reviewers will have six week to complete their reviews. The six-week review period is similar to what we currently have for HPCA, so it is not unreasonable to expect reviews in six weeks. 
 
-3. <a name="3"></a>**Online Discussion Between Reviewers (July 13-17)**
+3. <a name="3"></a>**Online Discussion Between Reviewers (May 20th - June 1st)**
 There is a one-week period between the review submission and releasing the reviews to the authors. The purpose of the pre-rebuttal discussion is that the reviewers can see the other reviews. This will (hopefully) help all the reviewers to build a consensus on the concerns and feedback, and also eliminate potential misunderstanding that a reviewer may have. The reviewers are allowed to change their scores based on the discussion.
-**Determining the Decision of Rebuttal or Revision (July 18-19)**
+**Determining the Decision of Rebuttal or Revision (May 30th - June 1st)**
 All papers should have five reviews by this period. All papers will be rank ordered based on the average score of all the reviews for that paper. To reduce the workload for PC members, only a select few (that are likely to appear at the PC meeting) will be recommended for revision. In addition, a reviewer can champion a paper for revision.  The algorithm for determining the recommendation of revision is shown in the figure below. Note, that we are using a threshold of Top80 only as an example, and we may need to fine-tune the exact threshold based on the runtime information. Similarly, we may consider using a model that ignores the review with minimum score while calculating the average scores for the paper, in order to reduce the impact of an outlier harsh review.  **The outcome of this phase is to group the papers into two categories**: (Category A) "Invited for Revision" and (Category B) "Recommended for Rebuttal Only". All papers in the Category A will also be allocated a “lead”. The lead will “oversee” the reviews, revision, and discussion for the rest of the process, including the post-response period.
 <img src="{{ site.baseurl }}/images/review.png" height="250px">
 
 
-4. <a name="4"></a>**Reviews Released to Authors (July 20)**
+4. <a name="4"></a>**Reviews Released to Authors (June 1st)**
 Along with the reviews the authors will get one of the following recommendation: (A) Invited for Revision (In addition to Rebuttal)
 (B) Recommended for Rebuttal Only. For the “Category A” papers, authors are allowed to incorporate the suggestions from the reviewers and address their concerns. The authors are encouraged to improve the editorial quality of the paper. The authors must highlight the sections where changes are made. The authors are NOT allowed to make any unsolicited additions to the paper. In the rebuttal, the authors should point to the sections in the revised paper where they have addressed the concerns of the reviewers, and summarize the revisions made. For the “Category B” papers, the authors are recommended to submit a rebuttal only.
 
-5. <a name="5"></a>**Authors Submit Rebuttal and/or Revision (Aug 10)**
+5. <a name="5"></a>**Authors Submit Rebuttal and/or Revision (June 14th)**
 The authors have three weeks to submit their revision and/or rebuttal. Note that revision is optional. So, even if a paper is recommended for revision, the authors may still choose to respond only with a rebuttal (or choose to not respond at all).
 
-6. <a name="6"></a>**Reviewers Read Revision and/or Rebuttal (Aug 11-20)**
+6. <a name="6"></a>**Reviewers Read Revision and/or Rebuttal (June 16th - June 21)**
 The reviewers read the revisions for “Category A” papers, and see if/how their concerns got addressed and provide their final merit score. For “Category B” papers, the PC members read the rebuttal and provide their final merit score.  The reviewers have approximately 10 days to key in their post-response scores.
-**Online Discussion Before PC Meeting (Aug 21-26)**
-The reviewers discuss papers online and revise their scores. By default, papers in Category B are unlikely to be discussed at the PC meeting, unless someone advocates for the paper. The online discussion can promote a paper in Category B to be discussed at the PC meeting. All papers in Category A will get discussed at the PC meeting, however it is understood that the rank of any paper may get lowered if the reviewers reduce their scores based on all available information. **The PC chair will lock the submission website on Aug 27-28**, to compile the rank ordered list of all papers based on post response rankings, in preparation for the PC meeting.
+**Online Discussion Before PC Meeting (June 21-26)**
+The reviewers discuss papers online and revise their scores. By default, papers in Category B are unlikely to be discussed at the PC meeting, unless someone advocates for the paper. The online discussion can promote a paper in Category B to be discussed at the PC meeting. All papers in Category A will get discussed at the PC meeting, however it is understood that the rank of any paper may get lowered if the reviewers reduce their scores based on all available information. **The PC chair will lock the submission website on June 27-28**, to compile the rank ordered list of all papers based on post response rankings, in preparation for the PC meeting.
 
-7. <a href="7"></a>**In-Person PC Meeting in Atlanta (Aug 29-30)** 
+7. <a href="7"></a>**In-Person PC Meeting in Atlanta (June 29-30)** 
 The PC meeting will be held in Atlanta. We will have a 1.5 days PC meeting. The papers will be discussed in rank ordered arrangement based on the post-response merit scores. The author names will remain shielded throughout the process to maintain an unbiased process. We are also looking into using buzzers for the voting during the PC meeting to ensure a fair, unbiased, and quick voting.  
 
-8. <a href="8"></a>**Final Decision to Authors (Sep 3)**
+8. <a href="8"></a>**Final Decision to Authors (July 4th)**
 The accept/reject decision will be communicated to the authors on Thursday, Sept 3.
 
 Disclaimer
@@ -67,7 +69,7 @@ If you have any feedback or suggestions, please email the Program Chairs at emer
 
 ------------------------------------------------------------------------------
 
-<h3>Frequently Asked Questions/Concerns about the New Review Model</h3>
+<h3>Frequently Asked Questions/Concerns about the New Review Model (adopted from MICRO 2015) </h3>
 
 1. ***Do we have enough time to be able to do this?***
 
