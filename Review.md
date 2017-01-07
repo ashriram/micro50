@@ -16,6 +16,8 @@ This webpage outlines the review process for MICRO 2017. MICRO 2017 will extend 
 One of the objectives of a good review process is to provide feedback to the authors that allows them improve the quality of their submissions. In the reviewing model currently employed at our conferences, the reviewers provide a list of concerns to the authors, and the authors have only a limited way to respond, in the form of a rebuttal. The tone of rebuttal typically is to clarify the misconceptions of reviewers. However, the authors are explicitly prohibited from adding any new content to the paper, so they are unable to demonstrate how they have specifically addressed the concerns provided by the reviewers. In the proposed review model, we seek to provide the authors a window of three weeks in which they can revise the paper to address the concerns, and incorporate the suggestions, of the reviewers. This is not unlike the review model used in Journals, except that this is a single-shot revision rather than having several rounds of interactions between the reviewers and the authors. Such single-shot revision has been incorporated at top conferences in other fields, such as the International Conference on Very Large Data Bases (VLDB), with great success. The figure below captures the overall review process for MICRO 2017.
 
 The key dates for MICRO 2017 are as follows: 
+
+
 * [Submission deadline for full paper: April 4th (11:59 pm EDT)](#1)
 * [Reviews due from PC/ERC](#2)
 * [Discussion between reviewers](#3)
