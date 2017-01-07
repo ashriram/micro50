@@ -3,13 +3,12 @@ layout: default
 title: Hotel
 ---
 
-MICRO-50 will be held at the Hyatt Regency Cambridge.
-
-Hyatt Regency Cambridge 
+<mark> MICRO-50 will be held at the Hyatt Regency Cambridge <mark>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11793.872286616093!2d-71.11416485227616!3d42.353862982509156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x41f58904fd98a30b!2sHyatt+Regency+Cambridge%2C+Overlooking+Boston!5e0!3m2!1sen!2sca!4v1483822829360" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## Conference hotel reservation link: HERE
+
+***Conference hotel reservation link:*** HERE
 
  
 
@@ -18,7 +17,7 @@ Hyatt Regency Cambridge
 Our conference room rate is $$$ plus taxes for one or two persons in a room.
 Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. If you want to get dates outside of the "normal" MICRO dates and the website says that no rooms are available, let us know and we can ask the hotel to put more rooms into the MICRO "block" for the dates you want.
 
-Reservations with the MICRO hotel rate can also be made using the group code <mark> CODE </mark> on the regular Hyatt reservations site. If you do that, the Hyatt website will state that a mandatory resort charge will be added to the bill - this is incorrect because we have negotiated for the resort charge to be optional, but the main Hyatt reservations website apparently has this as part of the hotel information it displays. So even though the website may state that the resort charge is mandatory, if you use the AYC group code (or make reservations through the link above) the resort charge will be optional (our attendees can elect to pay it to get the benefits it provides, but they don't have to).
+Reservations with the MICRO hotel rate can also be made using the group code <mark> CODE </mark> on the regular Hyatt reservations site. Please use the CODE (or make reservations through the link above) the resort charge will be optional (our attendees can elect to pay it to get the benefits it provides, but they don't have to).
 
 
 ## Hotels Near Conference Site

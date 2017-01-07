@@ -6,7 +6,7 @@ title:
 <div class="row">
     <div class="col-md-6">
       <h1>MICRO 50 @ Boston </h1>
-      <p> The 47th Annual IEEE/ACM International Symposium on Microarchitecture, 2017</p>
+      <p> The 50th Annual IEEE/ACM International Symposium on Microarchitecture </p>
       <p> Hotel: Hyatt Regency Cambridge <a href="https://cambridge.regency.hyatt.com"> Link to hotel </a></p>
       <table>
   <thead>
@@ -37,7 +37,7 @@ title:
     </tr>
   </tbody>
 </table>
- MICRO 2017 will be using the MICRO 2015 journal style response period (<a href = "{{ site.baseurl }}/Review/"> refer here </a>
+ MICRO 2017 will be using the MICRO 2015 review model.(<a href = "{{ site.baseurl }}/Review/"> Instructions) </a>
 
     </div>
     <div class="col-md-6">
