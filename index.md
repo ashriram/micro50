@@ -28,7 +28,7 @@ title:
     <tr>
       <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
-      <td><mark> June 1st --- June 14th, 2017 </mark> (MICRO 2017 will be using the MICRO 2015 journal style response period (<a href = "{{ site.baseurl }}/Review/"> refer here </a>) </td>
+      <td><mark> June 1st --- June 14th, 2017 </mark> </td>
     </tr>
     <tr>
       <td><mark>Notification</mark></td>
@@ -37,6 +37,8 @@ title:
     </tr>
   </tbody>
 </table>
+ MICRO 2017 will be using the MICRO 2015 journal style response period (<a href = "{{ site.baseurl }}/Review/"> refer here </a>
+
     </div>
     <div class="col-md-6">
           <img class="img-responsive" src="{{ site.baseurl }}/images/boston.jpg" width="90%">
