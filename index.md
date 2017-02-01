@@ -5,9 +5,9 @@ title:
 
 <div class="row">
     <div class="col-md-6">
-      <h1>MICRO 50 @ Boston </h1>
+      <h1>MICRO 50 @ Boston, Oct 14 - 18 </h1> 
       <p> The 50th Annual IEEE/ACM International Symposium on Microarchitecture </p>
-      <p> Hotel: Hyatt Regency Cambridge <a href="https://cambridge.regency.hyatt.com"> Link to hotel </a></p>
+      <p> Hotel: Hyatt Regency Cambridge <a href="https://aws.passkey.com/go/Micro50Conference2017"> Link to MICRO Reservation </a></p>
       <table>
   <thead>
     <tr>
@@ -39,6 +39,8 @@ title:
 </table>
  MICRO 2017 will be using the MICRO 2015 review model.(<a href = "{{ site.baseurl }}/Review/"> Instructions) </a>
 
+
+
     </div>
     <div class="col-md-6">
           <img class="img-responsive" src="{{ site.baseurl }}/images/boston.jpg" width="90%">
@@ -51,13 +53,14 @@ title:
 The 50th International Symposium on Microarchitecture is the premier forum for presenting, discussing, and debating innovative microarchitecture ideas and techniques for advanced computing and communication systems. This symposium brings together researchers in fields related to microarchitecture, compilers, chips, and systems for technical exchange on traditional microarchitecture topics and emerging research areas. The MICRO community has enjoyed a close interaction between academic researchers and industrial designers and we aim to continue this tradition at MICRO-50. In 2017, MICRO goes to Boston, USA. 
 
 
-Follow us on Twitter  <a href="https://twitter.com/MicroArchConf">@MicroArchConf</a> and share your thoughts, news and experience about the MICRO 50 conference with <a href="https://twitter.com/hashtag/IEEEMICRO50?src=hash"> [#IEEEMICRO50] </a> 
+Follow us on Twitter  <a href="https://twitter.com/MicroArchConf">@MicroArchConf</a> and share your thoughts, news and experience about the MICRO 50 conference with <a href="https://twitter.com/hashtag/MICRO50?src=hash"> [#MICRO50] </a> 
 
 
-  <a class="twitter-timeline" height="100px" width="600px" href="https://twitter.com/MicroArchConf"
+<a class="twitter-timeline" height="100px" width="600px" href="https://twitter.com/MicroArchConf"
 data-widget-id="579313990217699328" style="float: right ;">Tweets </a>
 <script>!function(d,s,id){var
 js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+
 
 -------------------------------------------------------------------------------
 
@@ -67,6 +70,38 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 
 <table width="806" height="86" border="0" align="center">
         <tbody>
+        <tr>
+          <td height="19" colspan="4">
+            <p align="center">
+            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+              Gold Sponsors </span></span></strong></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td height="9" align="center" valign="top" width="180"><b>
+            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="90">
+          </td>
+          <td height="9" align="center" valign="top" width="180"><b>
+            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="90">
+          </td>
+          <td height="9" align="center" valign="top" width="207"><br><br>
+            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="90">
+          </td>
+        </tr>
+
+            <tr>
+          <td height="19" colspan="4">
+            <p align="center">
+            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+              Silver Sponsors </span></span></strong></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td height="9" align="center" valign="top" width="207"><br><br>
+            <img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height="90">
+          </td>
+        </tr>
+
         <tr>
           <td height="19" colspan="4">
             <p align="center">

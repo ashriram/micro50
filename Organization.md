@@ -11,14 +11,14 @@ title: Organization Committee
 | **Tutorial/Workshop Co-Chairs**      | Aamer Jaleel       | NVIDIA                  |   |
 |                                      | Angshuman Parashar | NVIDIA                  |   |
 | **Finance Chair**                    | Augusto Vega       | IBM Research            |   |
-| **Submissions Chair**                | Mark Jeffrey and Po-An Tsai     |    MIT     |   |
+| **Submissions Chair**                | Mark Jeffrey and <br> Po-An Tsai     |    MIT     |   |
 | **Web Chair**                        | Arrvindh Shriraman | Simon Fraser University |   |
 | **Publicity Chair**                  | Ramon Bertran      | IBM Reserch             |   |
 | **Registration Chair**               | Michel Kinsy       | Boston University       |   |
 | **Local Arrangements Chair**         | Mark Hempstead     | Tufts                   |   |
 | **Publications Chair**               | Xiaochen Guo       | Lehigh University       |   |
 | **Industrial Liaison**               |                    |                         |   |
-| **Student Liaison / Travel Award**  | David Wentzlaff    | Princeton University    |   |
+| **Student Liaison / Travel Award**  | David Wentzlaff     | Princeton University    |   |
 |   ***Steering Committee*** |  | |
 |   |Richard Belgard (Chair)|  Consultant |
 |   |David Albonesi|  Cornell |
@@ -29,6 +29,7 @@ title: Organization Committee
 |   |Bill Mangione-Smith|  Consultant 
 |   |Onur Mutlu|  CMU |
 |   |Yale Patt|  UT Austin  |
+|   | Moin Qureshi| Georgia Tech |
 |   |Milos Prvulovic|  Georgia Tech |
 |   | Mikko Lipasti | Univ. Wisconsin | 
 |   | Hsien-Hsin Lee| TSMC, Taiwan  | 

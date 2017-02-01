@@ -7,7 +7,7 @@ This document is intended to serve as a sample for submissions to the 50th Inter
   
 ## Introduction
 
-This document provides the formatting instructions for submissions to the 50th Annual IEEE/ACM International Symposium on Microarchitecture, 2015. In an effort to respect the efforts of reviewers and in the interest of fairness to all prospective authors, we request that all submissions to MICRO-50 follow the formatting and submission rules detailed below. Submissions that (grossly) violate these instructions may not be reviewed, at the discretion of the program chair, in order to maintain a review process that is fair to all potential authors.
+This document provides the formatting instructions for submissions to the 50th Annual IEEE/ACM International Symposium on Microarchitecture, 2017. In an effort to respect the efforts of reviewers and in the interest of fairness to all prospective authors, we request that all submissions to MICRO-50 follow the formatting and submission rules detailed below. Submissions that (grossly) violate these instructions may not be reviewed, at the discretion of the program chair, in order to maintain a review process that is fair to all potential authors.
 
 An example submission (formatted using the MICRO-50 submission format) that contains the submission and formatting guidelines can be downloaded from here: [Sample PDF]({{ site.baseurl }}/public/downloads/samplepaper.pdf). The contents of this document are the same as the contents of the submission instructions that appear on [Submission Page](), where the paper submission site will be linked online shortly.
 
@@ -133,7 +133,7 @@ Finally, we also note that the [ACM Plagiarism Policy](http://www.acm.org/public
 
 ### Acknowledgements 
 
-This document is derived from previous conferences, in particular MICRO 2013, ASPLOS 2015, and MICRO 2016. We thank Christos Kozyrakis and Sandhya Dwarkadas for their inputs.
+This document is derived from previous conferences, in particular MICRO 2013, ASPLOS 2015, MICRO 2015, and MICRO 2016. We thank Christos Kozyrakis and Sandhya Dwarkadas for their inputs.
 
 Submission Site:  ***TBA***
 
