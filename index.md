@@ -68,7 +68,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <h2> We thank our generous sponsors </h2>
 
 
-<table width="806" height="86" border="0" align="center">
+<table width="806" height="128" border="0" align="center">
         <tbody>
         <tr>
           <td height="19" colspan="4">
@@ -89,7 +89,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           </td>
         </tr>
 
-            <tr>
+          <tr>
           <td height="19" colspan="4">
             <p align="center">
             <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
