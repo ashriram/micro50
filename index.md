@@ -56,7 +56,7 @@ The 50th International Symposium on Microarchitecture is the premier forum for p
 Follow us on Twitter  <a href="https://twitter.com/MicroArchConf">@MicroArchConf</a> and share your thoughts, news and experience about the MICRO 50 conference with <a href="https://twitter.com/hashtag/MICRO50?src=hash"> [#MICRO50] </a> 
 
 
-<a class="twitter-timeline" height="100px" width="600px" href="https://twitter.com/MicroArchConf"
+<a class="twitter-timeline" height="300px" width="600px" href="https://twitter.com/MicroArchConf"
 data-widget-id="579313990217699328" style="float: right ;">Tweets </a>
 <script>!function(d,s,id){var
 js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
@@ -65,58 +65,58 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 -------------------------------------------------------------------------------
 
 
-<h2> We thank our generous sponsors </h2>
+## We thank our generous sponsors
 
 
 <table width="806" height="128" border="0" align="center">
-        <tbody>
-        <tr>
-          <td height="19" colspan="4">
-            <p align="center">
-            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+<tbody>
+<tr>
+<td height="19" colspan="5">
+<p align="center">
+<span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
           </td>
         </tr>
         <tr>
-          <td height="9" align="center" valign="top" width="180"><b>
+          <td height="9" align="center" valign="top" width="180">
             <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="90">
           </td>
-          <td height="9" align="center" valign="top" width="180"><b>
-            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="90">
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="180"> 
           </td>
-          <td height="9" align="center" valign="top" width="207"><br><br>
-            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="90">
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="90"> 
           </td>
         </tr>
 
           <tr>
-          <td height="19" colspan="4">
+          <td height="19" colspan="5">
             <p align="center">
             <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Silver Sponsors </span></span></strong></span></p>
           </td>
         </tr>
         <tr>
-          <td height="9" align="center" valign="top" width="207"><br><br>
+          <td height="9" align="center" valign="top" width="207">
             <img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height="90">
           </td>
         </tr>
 
         <tr>
-          <td height="19" colspan="4">
+          <td height="19" colspan="5">
             <p align="center">
             <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Technical Sponsors:</span></span></strong></span></p>
           </td>
         </tr>
         <tr>
-          <td height="9" align="center" valign="top" width="180"><b>
-            <font size="3" color="#000000">ACM SIGMICRO</font></b><br>
+          <td height="9" align="center" valign="top" width="180">
+            <font size="3" color="#000000">ACM SIGMICRO</font><br>
             <img border="0" src="{{ site.baseurl }}/images/acm.jpg" height="90">
           </td>
-          <td height="9" align="center" valign="top" width="207"><br><br>
+          <td height="9" align="center" valign="top" width="207">
             <img border="0" src="{{ site.baseurl }}/images/ieee.jpg" height="90">
           </td>
         </tr>
-        </tbody>
+</tbody>
 </table>
