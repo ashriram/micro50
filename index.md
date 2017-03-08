@@ -4,49 +4,47 @@ title:
 ---
 
 <div class="row">
-    <div class="col-md-6">
-      <h1>MICRO 50 @ Boston, Oct 14 - 18 </h1> 
-      <p> The 50th Annual IEEE/ACM International Symposium on Microarchitecture </p>
-      <p> Hotel: Hyatt Regency Cambridge <a href="https://aws.passkey.com/go/Micro50Conference2017"> Link to MICRO Reservation </a></p>
-      <table>
-  <thead>
-    <tr>
-      <th>Important Dates</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+ <div class="col-md-6">
+  <h1>MICRO 50 @ Boston, Oct 14 - 18 </h1> 
+  <p> The 50th Annual IEEE/ACM International Symposium on Microarchitecture </p>
+  <p> Hotel: Hyatt Regency Cambridge. <a href="https://aws.passkey.com/go/Micro50Conference2017">Link to MICRO Reservation</a>.</p>
+  <table>
+     <thead>
+       <tr>
+       <th>Important Dates</th>
+       </tr>
+     </thead>
+     <tbody>
+      <tr>
       <td><mark>Abstract</mark></td>
       <td> </td>
       <td><mark> March 28th, 2017 at 11:59pm EDT</mark></td>
-    </tr>
-    <tr>
+      </tr>
+      <tr>
       <td><mark>Full Paper</mark></td>
       <td> </td>
       <td><mark>April 4th, 2017 at 11:59pm EDT</mark></td>
-    </tr>
-    <tr>
+      </tr>
+      <tr>
       <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
       <td><mark> June 1st - June 14th, 2017 </mark> </td>
-    </tr>
-    <tr>
+      </tr>
+      <tr>
       <td><mark>Notification</mark></td>
       <td> </td>
       <td><mark> July 5th, 2017</mark></td>
-    </tr>
-  </tbody>
-</table>
- MICRO 2017 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a> similar to MICRO 2015's.
-
-
-
-    </div>
-    <div class="col-md-6">
-          <img class="img-responsive" src="{{ site.baseurl }}/images/boston.jpg" width="90%">
-          <img />
-        <img />
-    </div>
+      </tr>
+     </tbody>
+  </table>
+  <p> </p>
+  <p>MICRO 2017 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a> similar to MICRO 2015's.</p>
+  <p><a href="https://micro50.csail.mit.edu">MICRO 2017 submissions site</a>.</p>
+ </div>
+ <div class="col-md-6">
+  <img class="img-responsive" src="{{ site.baseurl }}/images/boston.jpg" width="90%">
+  <p></p>
+ </div>
 </div>
 
 
