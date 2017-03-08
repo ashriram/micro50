@@ -9,6 +9,8 @@ This document provides the formatting instructions for submissions to the 50th A
 
 An example submission (formatted using the MICRO-50 submission format) that contains the submission and formatting guidelines can be downloaded from here: [Sample PDF]({{ site.baseurl }}/public/downloads/samplepaper.pdf).
 
+Submission site: [**https://micro50.csail.mit.edu**](https://micro50.csail.mit.edu)
+
 All questions regarding paper formatting and submission should be directed to the program chairs.
 
 ### Format Highlights 
@@ -91,7 +93,7 @@ Authors should indicate these areas on the submission form as well as specific t
 Authors must register all their conflicts on the paper submission site. Conflicts are needed to ensure appropriate assignment of reviewers. If a paper is found to have an undeclared conflict that causes a problem OR if a paper is found to declare false conflicts in order to abuse or “game” the review system, the paper may be rejected.
 
 
-We use the NSF conflict of interest (COI) guidelines for determining the conflict period for MICRO’15. Please declare a conflict of interest  with the following people for any author of your paper:
+We use the NSF conflict of interest (COI) guidelines for determining the conflict period for MICRO 2017. Please declare a conflict of interest  with the following people for any author of your paper:
 
 1. Your Ph.D. advisor(s), post-doctoral advisor(s), Ph.D. students, and post-doctoral advisees, forever.
 2. Family relations by blood or marriage, or their equivalent, forever (if they might be potential reviewers).
@@ -110,7 +112,7 @@ We hope to draw most reviewers from the PC and the ERC, but others from the comm
 
 ### Concurrent Submissions and Workshops
 
-By submitting a manuscript to MICRO’15, the authors guarantee that the manuscript has not been previously published or accepted for publication in a substantially similar form in any conference, journal, or the archived proceedings of a workshop (e.g., in the ACM digital library) – see exceptions below. The authors also guarantee that no paper that contains significant overlap with the contributions of the submitted paper will be under review for any other conference or journal or an archived proceedings of a workshop during the MICRO’15 review period. Violation of any of these conditions will lead to rejection.
+By submitting a manuscript to MICRO 207, the authors guarantee that the manuscript has not been previously published or accepted for publication in a substantially similar form in any conference, journal, or the archived proceedings of a workshop (e.g., in the ACM digital library) – see exceptions below. The authors also guarantee that no paper that contains significant overlap with the contributions of the submitted paper will be under review for any other conference or journal or an archived proceedings of a workshop during the MICRO 2017 review period. Violation of any of these conditions will lead to rejection.
 
 
 The only exceptions to the above rules are for the authors’ own papers in (1) workshops without archived proceedings such as in the ACM digital library (or where the authors chose not to have their paper appear in the archived proceedings), or (2) venues such as IEEE CAL where there is an explicit policy that such publication does not preclude longer conference submissions. In all such cases, the submitted manuscript may ignore the above work to preserve author anonymity. This information must, however, be provided on the submission form – the PC chairs will make this information available to reviewers if it becomes necessary to ensure a fair review. As always, if you are in doubt, it is best to contact the program chairs.
@@ -121,6 +123,4 @@ Finally, the [ACM Plagiarism Policy](http://www.acm.org/publications/policies/pl
 ### Acknowledgements 
 
 This document is derived from previous conferences, in particular MICRO 2013, ASPLOS 2015, MICRO 2015, and MICRO 2016. We thank Moin Qureshi, Christos Kozyrakis, and Sandhya Dwarkadas for their inputs.
-
-Submission Site:  ***TBA***
 
