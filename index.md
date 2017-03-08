@@ -28,7 +28,7 @@ title:
     <tr>
       <td><mark>Rebuttal and Response </mark></td>
       <td> </td>
-      <td><mark> June 1st --- June 14th, 2017 </mark> </td>
+      <td><mark> June 1st - June 14th, 2017 </mark> </td>
     </tr>
     <tr>
       <td><mark>Notification</mark></td>
@@ -37,7 +37,7 @@ title:
     </tr>
   </tbody>
 </table>
- MICRO 2017 will be using the MICRO 2015 review model.(<a href = "{{ site.baseurl }}/Review/"> Instructions) </a>
+ MICRO 2017 will use a <a href = "{{ site.baseurl }}/Review/">revision-based model</a> similar to MICRO 2015's.
 
 
 
