@@ -76,14 +76,22 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           </td>
         </tr>
         <tr>
-          <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="90">
+          <td height="9" align="center" valign="top" width="90">
+            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="60">
+          </td>
+          <td height="9" align="center" valign="top" width="90" style="padding-right: 30px;">
+            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="40"> 
           </td>
           <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="180"> 
+            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="60"> 
+          </td>
+        </tr>
+        <tr>
+          <td height="9" align="center" valign="top" width="90">
+            <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90"> 
           </td>
           <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="90"> 
+            <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
           </td>
         </tr>
 
@@ -96,7 +104,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
         </tr>
         <tr>
           <td height="9" align="center" valign="top" width="207">
-            <img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height="90">
+            <img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height="75">
           </td>
         </tr>
 
