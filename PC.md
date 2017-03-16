@@ -2,8 +2,8 @@
 layout: default
 title: Program Committee 
 ---
-
-|--------------------------------------------------------|----------------------------------|
+|                                                        |                                  |
+| -----------------------------------------------------: | -------------------------------- |
 |                                            Jung Ho Ahn |                              SNU |
 |                                        Alaa Alameldeen |                            Intel |
 |                                         Krste Asanovic |                         Berkeley |
@@ -26,7 +26,6 @@ title: Program Committee
 |                                             Kei Hiraki |              University of Tokyo |
 |                                              James Hoe |                              CMU |
 |                                             Engin Ipek |                     U. Rochester |
-|                                           Aamer Jaleel |                           NVIDIA |
 |                                 Natalie Enright Jerger |                    U. of Toronto |
 |                                         Daniel Jimenez |                             TAMU |
 |                                       Stefanos Kaxiras |               Uppsala University |
@@ -64,4 +63,4 @@ title: Program Committee
 |                                             David Wood |             U. Wisconsin-Madison |
 |                                         Carole-Jean Wu |                    Arizona State |
 |                                                Lisa Wu |                         Berkeley |
-|--------------------------------------------------------|----------------------------------|
+{: .table .table-striped }

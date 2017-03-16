@@ -2,8 +2,8 @@
 layout: default
 title: External Review Committee
 ---
-
-|--------------------------------------------------------|----------------------------------|
+|                                                        |                                  |
+| -----------------------------------------------------: | -------------------------------- |
 |                                            Vikram Adve |                             UIUC |
 |                                         David Albonesi |                          Cornell |
 |                                            Erik Altman |                              IBM |
@@ -43,6 +43,7 @@ title: External Review Committee
 |                                          Michael Huang |                     U. Rochester |
 |                                           Chris Hughes |                            Intel |
 |                                            Wen-Mei Hwu |                             UIUC |
+|                                           Aamer Jaleel |                           NVIDIA |
 |                                             Adwait Jog |                   William & Mary |
 |                                             Ajay Joshi |                        Boston U. |
 |                                              Toni Juan |                        Microsoft |
@@ -104,4 +105,4 @@ title: External Review Committee
 |                                           Donald Yeung |                      U. Maryland |
 |                                           Antonia Zhai |                     U. Minnesota |
 |                                            Jishen Zhao |                    UC Santa Cruz |
-|--------------------------------------------------------|----------------------------------|
+{: .table .table-striped }
