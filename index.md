@@ -66,6 +66,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 ## We thank our generous sponsors
 
 
+
 <table width="806" height="128" border="0" align="center">
 <tbody>
 <tr>
@@ -76,22 +77,14 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           </td>
         </tr>
         <tr>
-          <td height="9" align="center" valign="top" width="90">
-            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="60">
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="75">
           </td>
-          <td height="9" align="center" valign="top" width="90" style="padding-right: 30px;">
-            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="40"> 
+          <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
+            <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="45"> 
           </td>
           <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="60"> 
-          </td>
-        </tr>
-        <tr>
-          <td height="9" align="center" valign="top" width="90">
-            <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90"> 
-          </td>
-          <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
+            <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="75"> 
           </td>
         </tr>
 

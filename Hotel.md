@@ -18,8 +18,6 @@ title: Hotel
 Our conference room rate is $$$ plus taxes for one or two persons in a room.
 Hyatt Cambridge  reservations using the MICRO negotiated rate can be made here. If you want to get dates outside of the "normal" MICRO dates and the website says that no rooms are available, let us know and we can ask the hotel to put more rooms into the MICRO "block" for the dates you want.
 
-Reservations with the MICRO hotel rate can also be made using the group code <mark> CODE </mark> on the regular Hyatt reservations site. Please use the CODE (or make reservations through the link above) the resort charge will be optional (our attendees can elect to pay it to get the benefits it provides, but they don't have to).
-
 
 ## Public Transportation
 	
@@ -32,3 +30,4 @@ Reservations with the MICRO hotel rate can also be made using the group code <ma
 
 ## Ground Transportation
 
+<a href="https://www.massport.com/logan-airport/to-and-from-logan/ground-transportation/"> Link to shuttles </a>
