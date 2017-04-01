@@ -47,6 +47,7 @@ title: External Review Committee
 |                                             Adwait Jog |                   William & Mary |
 |                                             Ajay Joshi |                        Boston U. |
 |                                              Toni Juan |                        Microsoft |
+|                                            David Kaeli |                  Northeastern U. |
 |                                        Harshad Kasture |                           Oracle |
 |                                              Omer Khan |                      Connecticut |
 |                                             Martha Kim |                         Columbia |
