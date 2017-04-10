@@ -18,7 +18,7 @@ title: Organization Committee
 | **Registration Chair**               | Michel Kinsy       | Boston University       |   |
 | **Local Arrangements Chair**         | Mark Hempstead     | Tufts                   |   |
 | **Publications Chair**               | Xiaochen Guo       | Lehigh University       |   |
-| **Industrial Liaison**               |                    |                         |   |
+| **Industrial Liaison**               | Christopher Fletcher|    UIUC                |   | 
 | **Student Liaison / Travel Award**  | David Wentzlaff     | Princeton University    |   |
 | **Steering Committee**  |Richard Belgard (Chair)|  Consultant |
 |   |David Albonesi|  Cornell |
