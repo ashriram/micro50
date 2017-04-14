@@ -87,6 +87,17 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
             <img border="0" src="{{ site.baseurl }}/images/qualcomm.png" height="75"> 
           </td>
         </tr>
+         <tr>
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90">
+          </td>
+          <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
+            <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
+          </td>
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/Cavium.jpeg" height="75"> 
+          </td>
+        </tr>
 
           <tr>
           <td height="19" colspan="5">
@@ -99,7 +110,25 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           <td height="9" align="center" valign="top" width="207">
             <img border="0" src="{{ site.baseurl }}/images/microsoft-logo.png" height="75">
           </td>
+         <td height="9" align="center" valign="top" style="padding-right: 20px;" width="207">
+            <img border="0" src="{{ site.baseurl }}/images/Facebook.jpg" height="90">
+          </td>
+
         </tr>
+
+        <tr>
+          <td height="19" colspan="5">
+            <p align="center">
+            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+              Bronze Sponsors </span></span></strong></span></p>
+          </td>
+        </tr>
+        <tr>
+          <td height="9" align="center" valign="top" width="207">
+            <img border="0" src="{{ site.baseurl }}/images/VMWare.jpg" height="90">
+          </td>
+        </tr>
+
 
         <tr>
           <td height="19" colspan="5">
