@@ -73,7 +73,6 @@ title: External Review Committee
 |                                     Angshuman Parashar |                           Nvidia |
 |                                          Tom Pawlowski |                           Micron |
 |                                     Gennady Pekhimenko |                      MSR/Toronto |
-|                                       Michael Pellauer |                           Nvidia |
 |                                         Keshav Pingali |                  U. Texas-Austin |
 |                                           Gilles Pokam |                            Intel |
 |                                       Dmitry Ponomarev |                       Binghamton |
@@ -101,7 +100,6 @@ title: External Review Committee
 |                                             Uri Weiser |                         Technion |
 |                                         Paul Whatmough |                          Harvard |
 |                                        Chris Wilkerson |                            Intel |
-|                                               Yuan Xie |                             UCSB |
 |                                          Chia-Lin Yang |                              NTU |
 |                                           Donald Yeung |                      U. Maryland |
 |                                           Antonia Zhai |                     U. Minnesota |

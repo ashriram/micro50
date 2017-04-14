@@ -44,6 +44,7 @@ title: Program Committee
 |                                         Pierre Michaud |                            INRIA |
 |                                             Onur Mutlu |                              ETH |
 |                                          Tony Nowatzki |                             UCLA |
+|                                       Michael Pellauer |                           Nvidia |
 |                                        Milos Prvulovic |                     Georgia Tech |
 |                                           Moin Qureshi |                     Georgia Tech |
 |                                            Ravi Rajwar |                            Intel |
@@ -63,4 +64,5 @@ title: Program Committee
 |                                             David Wood |             U. Wisconsin-Madison |
 |                                         Carole-Jean Wu |                    Arizona State |
 |                                                Lisa Wu |                         Berkeley |
+|                                               Yuan Xie |                             UCSB |
 {: .table .table-striped }
