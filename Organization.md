@@ -19,6 +19,8 @@ title: Organization Committee
 | **Local Arrangements Chair**         | Mark Hempstead     | Tufts                   |   |
 | **Publications Chair**               | Xiaochen Guo       | Lehigh University       |   |
 | **Industrial Liaison**               | Christopher Fletcher|    UIUC                |   | 
+|                                      | Jon Masters         |   Red Hat              |   |
+| **European Liaison**                 |  Xavier Martorell   | BSC/UPC                |   |
 | **Student Liaison / Travel Award**  | David Wentzlaff     | Princeton University    |   |
 | **Steering Committee**  |Richard Belgard (Chair)|  Consultant |
 |   |David Albonesi|  Cornell |
