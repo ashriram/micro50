@@ -125,7 +125,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
         </tr>
         <tr>
           <td height="9" align="center" valign="top" width="207">
-            <img border="0" src="{{ site.baseurl }}/images/VMW_Research_BLK.png" height="10">
+            <img border="0" src="{{ site.baseurl }}/images/VMW_Research_BLK.png" height="30">
           </td>
         </tr>
 

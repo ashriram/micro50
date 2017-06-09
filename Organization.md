@@ -33,6 +33,4 @@ title: Organization Committee
 |   |Yale Patt|  UT Austin  |
 |   | Moin Qureshi| Georgia Tech |
 |   |Milos Prvulovic|  Georgia Tech |
-|   | Mikko Lipasti | Univ. Wisconsin | 
-|   | Hsien-Hsin Lee| TSMC, Taiwan  |
 {: .table } 
