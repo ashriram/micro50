@@ -88,8 +88,11 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           </td>
         </tr>
          <tr>
-          <td height="9" align="center" valign="top" width="180">
+          <td height="9" align="center" valign="top" width="100">
             <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90">
+          </td>
+           <td height="9" align="center" valign="top" width="100">
+            <img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height="125"> 
           </td>
           <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
             <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
@@ -97,6 +100,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           <td height="9" align="center" valign="top" width="180">
             <img border="0" src="{{ site.baseurl }}/images/Cavium.jpeg" height="75"> 
           </td>
+         
         </tr>
 
           <tr>

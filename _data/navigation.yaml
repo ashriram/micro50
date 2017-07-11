@@ -17,6 +17,11 @@
     - title: Submission Site
       url: Site/
 
+- title: Authors
+  sublinks:
+    - title: Camera Ready
+      url: Camera/
+
 - title: Technical Sessions
   sublinks:
     - title: Workshop and Tutorials
