@@ -21,6 +21,8 @@
   sublinks:
     - title: Camera Ready
       url: Camera/
+    - title: Visa
+      url: Visa/
 
 - title: Technical Sessions
   sublinks:
@@ -37,6 +39,8 @@
       url: Hotel/
     - title: Visa
       url: Visa/
+    - title: Student Travel Award
+      url: StudentTravel/
 
 - title: Organization
   sublinks:

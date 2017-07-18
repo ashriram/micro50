@@ -55,20 +55,29 @@ title: Program
 
 
 
-# Workshop Overview
+# Workshops
 
 
 | Name                     	|   	| Full Name                                                               	| Organizers                                                          	| Affiliation                            	|
 |--------------------------	|---	|-------------------------------------------------------------------------	|---------------------------------------------------------------------	|----------------------------------------	|
 | CognitiveWorkloads       	|   	| Exploiting Accelerator Diversity for Cognitive Workloads                	| Peter Hofstee, Raj Krishnamurthy, Ganessan                          	| IBM                                    	|
-| Quantum                  	|   	| Tutorial on Quantum Computing                                           	| Koen Bertels and Carmen G. Almudéver                                	| Delft University of Technology, QuTech 	|
-| HW-ML                     |     | Tutorial on Hardware Architectures for Deep Neural Networks [Website](http://eyeriss.mit.edu/tutorial.html)| Joel Emer, Vivienne Sze, and Yu-Hsin Chen  | MIT and Nvidia                    |
-| Reliability Assessment   	|   	| Tutorial on Microarchitecture Level Reliability Assessment: Throughput and Accuracy 	|    Dimitris Gizopoulos, Athanasios Chatzidimitriou, Manolis Kaliorakis,  	| Univ. of Athens                        	|
-| OpenPiton                	|   	| An Introduction to OpenPiton, a Manycore Open Source Processor          	| David Wentzlaff                                                     	| Princeton                              	|
-| NocArc                   	|   	| Workshop on Network on Chip Architectures (NoCArc)                      	| Maurizio Palesi                                                     	| U of Catania, Italy                    	|
-| Women and Minorities     	|   	| Career Workshop for Women and Minorities in Computer Architecture       	| Valentina, Zehra, Alan                                              	| IBM                                    	|
-| CARRV                    	|   	| First Workshop on RISC-V for Computer Architecture Research (CARRV)     	| Silviu, Arun, Arvind                                                	| BAE, MIT                               	|
+| NocArc                   	|   	| [Workshop on Network on Chip Architectures (NoCArc)](http://www.nocarc.org/)                      	| Maurizio Palesi                                                     	| U of Catania, Italy                    	|
+| Women and Minorities     	|   	| [Career Workshop for Women and Minorities in Computer Architecture](https://www.cs.virginia.edu/~smk9u/cwwmca2017/home.htm)       	| Valentina, Zehra, Alan                                              	| IBM                                    	|
+| CARRV                    	|   	| [First Workshop on RISC-V for Computer Architecture Research (CARRV)](https://carrv.github.io/)     	| Silviu, Arun, Arvind                                                	| BAE, MIT                               	|
 | Cognitive Edge Computing 	|   	| Cognitive Edge Computing                                                	| Ravi Iyer, Nilesh Jain, VJ Reddi                                    	| Intel, Google, UT Austin               	|
 | NOPE                     	|   	| Workshop On Negative Outcomes, Post-mortems, and Experiences            	| David Brooks                                                        	| Harvard                                	|
 |                          	|   	|                                                                         	|                                                                     	|                                        	|
 {: .table .table-striped }
+
+
+# Tutorials
+
+
+| Name                      |     | Full Name                                                                 | Organizers                                                            | Affiliation                             |
+|-------------------------- |---  |-------------------------------------------------------------------------  |---------------------------------------------------------------------  |---------------------------------------- |
+| Quantum                   |     | Tutorial on Quantum Computing                                             | Koen Bertels and Carmen G. Almudéver                                  | Delft University of Technology, QuTech  |
+| HW-ML                     |     | [Tutorial on Hardware Architectures for Deep Neural Networks](http://eyeriss.mit.edu/tutorial.html)| Joel Emer, Vivienne Sze, and Yu-Hsin Chen  | MIT and Nvidia                    |
+| Reliability Assessment    |     | [Tutorial on Microarchitecture Level Reliability Assessment: Throughput and Accuracy](http://micro50-tutorial.di.uoa.gr/)   |    Dimitris Gizopoulos, Athanasios Chatzidimitriou, Manolis Kaliorakis,   | Univ. of Athens                         |
+| OpenPiton                 |     | [An Introduction to OpenPiton, a Manycore Open Source Processor](http://parallel.princeton.edu/openpiton/MICRO17_tutorial.html)           | David Wentzlaff                                                       | Princeton                               |
+{: .table .table-striped }
+

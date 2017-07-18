@@ -3,11 +3,20 @@ layout: default
 title: 
 ---
 
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+
 <div class="row">
  <div class="col-md-6">
   <h1>MICRO 50 @ Boston, Oct 14 - 18 </h1> 
   <p> The 50th Annual IEEE/ACM International Symposium on Microarchitecture </p>
   <p> Hotel: Hyatt Regency Cambridge. <a href="https://aws.passkey.com/go/Micro50Conference2017">Link to MICRO Reservation</a>.</p>
+  <p> <a href="    https://whova.com/portal/registration/aiism_201710/">Link to Registration</a>.</p>
+  <p> <a href="https://www.microarch.org/micro50/StudentTravel/">Link to Student Award</a>.</p>
+  <p> <a href="https://www.microarch.org/micro50/Visa/">Link to Visa request</a>.</p>
   <table>
      <thead>
        <tr>
@@ -78,7 +87,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
         </tr>
         <tr>
           <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="75">
+            <img border="0" src="{{ site.baseurl }}/images/Cavium.jpeg" height="75"> 
           </td>
           <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
             <img border="0" src="{{ site.baseurl }}/images/Oracle.png" height="45"> 
@@ -88,19 +97,16 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           </td>
         </tr>
          <tr>
+          <td height="9" align="center" valign="top" width="180">
+            <img border="0" src="{{ site.baseurl }}/images/arm_logo.png" height="75">
+          </td>
           <td height="9" align="center" valign="top" width="100">
             <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90">
-          </td>
-           <td height="9" align="center" valign="top" width="100">
             <img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height="125"> 
           </td>
           <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
             <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
           </td>
-          <td height="9" align="center" valign="top" width="180">
-            <img border="0" src="{{ site.baseurl }}/images/Cavium.jpeg" height="75"> 
-          </td>
-         
         </tr>
 
           <tr>
