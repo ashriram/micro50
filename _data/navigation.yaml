@@ -27,9 +27,9 @@
 - title: Technical Sessions
   sublinks:
     - title: Workshop and Tutorials
-      url: Program/index.html#workshop
+      url: Program/Workshop/index.html
     - title: Main Program
-      url: Program/index.html#program
+      url: Program/Main/index.html
 
 - title: Attend
   sublinks:

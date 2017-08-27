@@ -2,7 +2,7 @@
 layout: default
 title: Program
 ---
-# Workshop Dates
+# Workshop and Tutorials
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
@@ -19,8 +19,8 @@ title: Program
 <table class="tg">
   <tr>
     <th class="tg-s6z2"></th>
-    <th class="tg-hgcj" colspan="2">Saturday</th>
-    <th class="tg-hgcj" colspan="2">Sunday</th>
+    <th class="tg-hgcj" colspan="2">Saturday (Oct 14) </th>
+    <th class="tg-hgcj" colspan="2">Sunday (Oct 15) </th>
   </tr>
   <tr>
     <td class="tg-0rnh">Room</td>
@@ -46,7 +46,7 @@ title: Program
   </tr>
   <tr>
     <td class="tg-5hgy">4</td>
-    <td class="tg-5hgy">Quantum</td>
+    <td class="tg-5hgy"><strike>Quantum</strike></td>
     <td class="tg-5hgy">NOPE</td>
     <td class="tg-5hgy">Reliability Assessment</td>
     <td class="tg-vn4c">OpenPiton</td>
@@ -75,9 +75,14 @@ title: Program
 
 | Name                      |     | Full Name                                                                 | Organizers                                                            | Affiliation                             |
 |-------------------------- |---  |-------------------------------------------------------------------------  |---------------------------------------------------------------------  |---------------------------------------- |
-| Quantum                   |     | Tutorial on Quantum Computing                                             | Koen Bertels and Carmen G. Almudéver                                  | Delft University of Technology, QuTech  |
+| <strike>Quantum</strike>                   |     | <strike>Tutorial on Quantum Computing</strike>                                             | Koen Bertels and Carmen G. Almudéver                                  | Delft University of Technology, QuTech  |
 | HW-ML                     |     | [Tutorial on Hardware Architectures for Deep Neural Networks](http://eyeriss.mit.edu/tutorial.html)| Joel Emer, Vivienne Sze, and Yu-Hsin Chen  | MIT and Nvidia                    |
 | Reliability Assessment    |     | [Tutorial on Microarchitecture Level Reliability Assessment: Throughput and Accuracy](http://micro50-tutorial.di.uoa.gr/)   |    Dimitris Gizopoulos, Athanasios Chatzidimitriou, Manolis Kaliorakis,   | Univ. of Athens                         |
 | OpenPiton                 |     | [An Introduction to OpenPiton, a Manycore Open Source Processor](http://parallel.princeton.edu/openpiton/MICRO17_tutorial.html)           | David Wentzlaff                                                       | Princeton                               |
 {: .table .table-striped }
+
+
+
+
+
 

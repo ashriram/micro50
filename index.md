@@ -3,11 +3,6 @@ layout: default
 title: 
 ---
 
-<meta http-equiv="cache-control" content="max-age=0" />
-<meta http-equiv="cache-control" content="no-cache" />
-<meta http-equiv="expires" content="0" />
-<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
-<meta http-equiv="pragma" content="no-cache" />
 
 <div class="row">
  <div class="col-md-6">
@@ -81,7 +76,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
 <tr>
 <td height="19" colspan="5">
 <p align="center">
-<span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+<span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Gold Sponsors </span></span></strong></span></p>
           </td>
         </tr>
@@ -103,16 +98,19 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           <td height="9" align="center" valign="top" width="100">
             <img border="0" src="{{ site.baseurl }}/images/Intel.png" height="90">
             <img border="0" src="{{ site.baseurl }}/images/Huawei-logo-veritical.png" height="125"> 
+            <img border="0" src="{{ site.baseurl }}/images/AMD.png" height="75"> 
           </td>
           <td height="9" align="center" valign="top" style="padding-right: 20px;" width="400">
             <img border="0" src="{{ site.baseurl }}/images/IBM.png" height="75"> 
           </td>
         </tr>
-
+        <tr>
+          <td height="19" colspan="5">
+          </td></tr>
           <tr>
           <td height="19" colspan="5">
             <p align="center">
-            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+            <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Silver Sponsors </span></span></strong></span></p>
           </td>
         </tr>
@@ -129,7 +127,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
         <tr>
           <td height="19" colspan="5">
             <p align="center">
-            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+            <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Bronze Sponsors </span></span></strong></span></p>
           </td>
         </tr>
@@ -143,7 +141,7 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
         <tr>
           <td height="19" colspan="5">
             <p align="center">
-            <span class="style9"><strong><span style="font-size:20px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
+            <span class="style9"><strong><span style="font-size:30px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">
               Technical Sponsors:</span></span></strong></span></p>
           </td>
         </tr>
