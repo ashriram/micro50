@@ -135,6 +135,10 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           <td height="9" align="center" valign="top" width="207">
             <img border="0" src="{{ site.baseurl }}/images/VMW_Research_BLK.png" height="30">
           </td>
+       <td height="9" align="center" valign="top" width="207">
+            <img border="0" src="{{ site.baseurl }}/images/Mediatek.jpg" height="60">
+          </td>
+
         </tr>
 
 

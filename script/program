@@ -1,114 +1,5 @@
----
-layout: default
-title: Main Program
----
-
-<style>
-table.blueTable {
-  border: 1px solid #1C6EA4;
-  background-color: #EEEEEE;
-  width: 100%;
-  text-align: left;
-  border-collapse: collapse;
-}
-table.blueTable td {
-  border: 1px solid #AAAAAA;
-  padding: 3px 2px;
-}
-
-table.blueTable th {
-  border: 1px solid #AAAAAA;
-  padding: 3px 2px;
-  text-align: center;
-}
-
-
-table.blueTable .tdb, table.blueTable thd {
-  text-align: center;
-  border: 2px solid #AAAAAA;
-  padding: 3px 2px;
-}
-
-table.blueTable tbody td {
-  font-size: 13px;
-}
-table.blueTable tr:nth-child(even) {
-  background: #D0E4F5;
-}
-table.blueTable thead {
-  background: #1C6EA4;
-  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
-  border-bottom: 2px solid #444444;
-}
-table.blueTable thead th {
-  font-size: 15px;
-  font-weight: bold;
-  color: #FFFFFF;
-  border-left: 2px solid #D0E4F5;
-}
-table.blueTable thead th:first-child {
-  border-left: none;
-}
-
-table.blueTable tfoot {
-  font-size: 14px;
-  font-weight: bold;
-  color: #FFFFFF;
-  background: #D0E4F5;
-  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  border-top: 2px solid #444444;
-}
-table.blueTable tfoot td {
-  font-size: 14px;
-}
-table.blueTable tfoot .links {
-  text-align: right;
-}
-table.blueTable tfoot .links a{
-  display: inline-block;
-  background: #1C6EA4;
-  color: #FFFFFF;
-  padding: 2px 8px;
-  border-radius: 5px;
-}
-</style>
-
-<table class="blueTable" border="2"><colgroup> <col style="width:5%;"> <col style="width:40%;"> <col style="width:40%;"> </colgroup>
-<thead>
+####1####
 <tr>
-<th>Start time</th>
-<th colspan="2" align="center" >Monday Oct 16, 2017 </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
-</tr>
-<tr>
-<td>8:00</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Opening Remarks&nbsp;&nbsp;</strong></td>
-</tr>
-<tr>
-<td>8:20</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Keynote 1 &nbsp;: TBA&nbsp;</strong></td>
-</tr>
-<tr>
-<td>9:20</td>
-<td colspan="2" class="tdb" >
-<p><strong>Lightning Session I (1.5 min/paper)</strong></p>
-</td>
-</tr>
-<tr>
-<td>10:20</td>
-<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;</td>
-</tr>
-<tr>
-<td>10:40</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>1-A DRAM</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>1-B Accelerators</em></strong></td>
 </tr>
@@ -116,13 +7,13 @@ table.blueTable tfoot .links a{
 <td>&nbsp;</td>
 <td>
 <strong>
-Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation
+Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation 
 </strong><br>
 Xiangyao Yu; Christopher Hughes; Nadathur Satish; Onur Mutlu; Srinivas Devadas
 </td>
 <td>
 <strong>
-UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More
+UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More 
 </strong><br>
 Yuanwei Fang:University of Chicago ;Chen Zou:University of Chicago ;Aaron J. Elmore:University of Chicago ;Andrew A. Chien:University of Chicago and Argonne National Laboratory
 </td>
@@ -131,13 +22,13 @@ Yuanwei Fang:University of Chicago ;Chen Zou:University of Chicago ;Aaron J. Elm
 <td>&nbsp;</td>
 <td>
 <strong>
-ConTutto - A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor
+ConTutto - A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor 
 </strong><br>
 Bharat Sukhwani:IBM Research ;Thomas Roewer:IBM Research ;Charles L. Haymes:IBM Research ;Kyu-Hyoun Kim:IBM Research ;Adam J. McPadden:IBM ;Daniel M. Dreps:IBM ;Dean Sanner:IBM ;Jan Van Lunteren:IBM Research ;Sameh Asaad:IBM Research
 </td>
 <td>
 <strong>
-UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition
+UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition 
 </strong><br>
 Reza Yazdani:Universitat Politecnica de Cataluny ;Jose-Maria Arnau:Universitat Politecnica de Cataluny ;Antonio Gonzalez:Universitat Politecnica de Cataluny
 </td>
@@ -146,13 +37,13 @@ Reza Yazdani:Universitat Politecnica de Cataluny ;Jose-Maria Arnau:Universitat P
 <td>&nbsp;</td>
 <td>
 <strong>
-Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content
+Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content 
 </strong><br>
 Samira Khan:University of Virginia ;Chris Wilkerson:Intel ;Zhe Wang:Intel ;Alaa Alameldeen:Intel ;Donghyuk Lee:NVIDIA ;Onur Mutlu:ETH Zurich
 </td>
 <td>
 <strong>
-IDEAL: Image DEnoising AcceLerator
+IDEAL: Image DEnoising AcceLerator 
 </strong><br>
 Mostafa Mahmoud:University of Toronto ;Bojian Zheng:University of Toronto ;Alberto Delmas Lascorz:University of Toronto ; Felix Heide: Stanford University/Algolux; Jonathan Assouline: Algolux; Paul Boucher: Algolux; Emmanuel Onzon: Algolux;Andreas Moshovos:University of Toronto
 </td>
@@ -161,23 +52,19 @@ Mostafa Mahmoud:University of Toronto ;Bojian Zheng:University of Toronto ;Alber
 <td>&nbsp;</td>
 <td>
 <strong>
-Fine-Grained DRAM: Energy Efficient DRAM for Extreme Bandwidth Systems
+Fine-Grained DRAM: Energy Efficient DRAM for Extreme Bandwidth Systems 
 </strong><br>
 Mike O'Connor:NVIDIA / UT-Austin ;Niladrish Chatterjee:NVIDIA ;Donghyuk Lee:NVIDIA ;John Wilson:NVIDIA ;Aditya Agrawal:NVIDIA ;Stephen W. Keckler:NVIDIA / UT-Austin ;William J. Dally:NVIDIA / Stanford
 </td>
 <td>
 <strong>
-Pipelining a Triggered Processing Element
+Pipelining a Triggered Processing Element 
 </strong><br>
 Thomas J. Repetti:Columbia University ;Joao Pedro Cerqueira:Columbia University ;Martha A. Kim:Columbia University ;Mingoo Seok:Columbia University
 </td>
 </tr>
+####2####
 <tr>
-<td>12:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Lunch + Panel&nbsp;&nbsp;</strong></td>
-</tr>
-<tr>
-<td>14:00</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>2-A GPUs-I</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>2-B Non-Volatile Memory/Storage</em></strong></td>
 </tr>
@@ -256,36 +143,8 @@ Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic 
 Zhaoxia Deng:University of California. Santa Barbara ;Lunkai Zhang:University of Chicago ;Nikita Mishra:University of Chicago ;Henry Hoffmann:University of Chicago ;Fred Chong:University of Chicago
 </td>
 </tr>
+####3####
 <tr>
-<td>15:40</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Evening event&nbsp;&nbsp;</strong></td>
-</tr>
-<thead>
-<tr>
-<th>Start time</th>
-<th colspan="2" align="center" >Tuesday Oct 17, 2017 </th>
-</tr>
-</thead>
-<tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
-</tr>
-<tr>
-<td>8:00</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Keynote II &nbsp;: TBA&nbsp;</strong></td>
-</tr>
-<tr>
-<td>9:00</td>
-<td colspan="2" class="tdb" >
-<p><strong>Lightning Session II (1.5 min/paper)</strong></p>
-</td>
-</tr>
-<tr>
-<td>10:00</td>
-<td colspan="2" class="tdb"><strong>Break</strong>&nbsp;&nbsp;</td>
-</tr>
-<tr>
-<td>10:20</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>3-A In/Near Memory Computing</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>3-B Security</em></strong></td>
 </tr>
@@ -349,12 +208,8 @@ Constructing and Characterizing Covert Channels on GPGPUs
 Hoda Naghibijouybari:University of California. Riverside ;Khaled Khasawneh:University of California. Riverside ;Nael Abu-Ghazaleh:University of California. Riverside
 </td>
 </tr>
+####4####
 <tr>
-<td>12:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Awards Lunch</strong></td>
-</tr>
-<tr>
-<td>14:00</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>4-B Prediction</em></strong></td>
 </tr>
@@ -400,16 +255,11 @@ Caiwen Ding:Syracuse University ;Siyu Liao:City University of New York. City Col
 <strong>
 Multiperspective Reuse Prediction 
 </strong><br>
-Daniel A. Jim≈Ωnez:Texas A&M ;Elvira Teran:Texas A&M
+Daniel A. Jiménez:Texas A&M ;Elvira Teran:Texas A&M
 </td>
 </tr>
+####5####
 <tr>
-  <td>15:00</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Break&nbsp;</strong>
-</td>
-</tr>
-<tr>
-  <td>15:20</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-A Consistency/Coherency Translation</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>5-B Energy</em></strong></td>
 </tr>
@@ -473,26 +323,8 @@ Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks
 Aditya Agrawal:UIUC ;Josep Torrellas:UIUC ;Sachin Idgunji:Nvidia
 </td>
 </tr>
+####6####
 <tr>
-<td>16:40</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Break and Poster Session&nbsp;&nbsp;</strong></td>
-</tr>
-<tr>
-<td>18:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp;</strong></td>
-</tr>
-<thead>
-<tr>
-<th>Start time</th>
-<th colspan="2" align="center" >Wednesday Oct 18, 2017 </th>
-</tr>
-</thead>
-<tr>
-<td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
-</tr>
-<tr>
-<td>8:00</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-A GPUs-II</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>6-B OS and System Design</em></strong></td>
 </tr>
@@ -556,12 +388,8 @@ Estimating and Understanding Architectural Risk
 Weilong Cui:University of California. Santa Barbara ;Timothy Sherwood:University of California. Santa Barbara
 </td>
 </tr>
+####7####
 <tr>
-<td>9:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Break</strong></td>
-</tr>
-<tr>
-<td>9:30</td>
 <td style="background-color: light blue;" class="tdb"><strong><em>7-A Unconventional Architectures</em></strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>7-B Compilers and Microarchitecture</em></strong></td>
 </tr>
@@ -625,29 +453,3 @@ Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performa
 Ji Kim:Cornell University ;Shunning Jiang:Cornell University ;Christopher Torng:Cornell University ;Moyang Wang:Cornell University ;Shreesha Srinath:Cornell University ;Berkin Ilbeyi:Cornell University ;Khalid Al-Hawaj:Cornell University ;Christopher Batten:Cornell University
 </td>
 </tr>
-<tr>
-<td>11:10</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Nominees</strong></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>Architectural Opportunities for Novel Dynamic EMI Shifting (DEMIS).</strong> Daphne I. Gorman:UC Santa Cruz ;Jose Renau:UC Santa Cruz ;Matthew Guthaus:UC Santa Cruz.  </td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.</strong> Parker Hill:University of Michigan ;Animesh Jain:University of Michigan ;Mason Hill:University of Nevada, Las Vegas ;Babak Zamirai:University of Michigan ;Chang-Hong Hsu:University of Michigan ;Michael Laurenzano:University of Michigan ;Scott Mahlke:University of Michigan ;Lingjia Tang:University of Michigan ;Jason Mars:University of Michigan. </td>
-</tr>
-<tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>Hardware Supported Persistent Object Address Translation.</strong> Tiancong Wang:NC State University ;Sakthikumaran Sambasivam:NC State University ;Yan Solihin:NC State University ;James Tuck:NC State University.  </td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"> <strong>An Experimental Microarchitecture for a Superconducting Quantum Processor.</strong> X. Fu: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; M. A. Rol: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. C. Bultink: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; H. van Someren: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; N. Khammassi: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; I. Ashraf: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; R. F. L. Vermeulen: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; J. C. de Sterke: Topic Embedded Systems / QuTech, Delft University of Technology; W. J. Vlothuizen: Netherlands Organisation for Applied Scienti c Research (TNO) / QuTech, Delft University of Technology; R. N. Schouten: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. G. Almudever: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; L. DiCarlo: QuTech, Delft University of Technology; Kavli Institute of Nanoscience, Delft University of Technology; K. Bertels: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology.  </td>
-</tr>
-<td>12:10</td>
-<td colspan="2" class="tbd"> Best Paper Announcement </td>
-</tr>
-</tbody>
-</table>
