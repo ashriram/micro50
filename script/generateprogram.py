@@ -2,6 +2,7 @@ import zipfile
 import os, errno
 import shutil
 import csv
+import itertools
 import json
 import binascii
 import codecs
@@ -34,7 +35,7 @@ def parsecsvprogram(name):
 
 	for x in paralleltracks:
 		programnames[x] = (sessiontitles[x+"-A"],sessiontitles[x+"-B"])
-		papernames[x]   = zip(programdict[x+"-A"],programdict[x+"-B"])
+		papernames[x]   = itertools.izip_longest(programdict[x+"-A"],programdict[x+"-B"])
 	
 
 	th = "<td style=\"background-color: light blue;\" class=\"tdb\"><strong><em>%s</em></strong></td>"
@@ -51,23 +52,38 @@ def parsecsvprogram(name):
 			print("<td>&nbsp;</td>")
 
 			# Session A paper
-			fields = p[0].split("|")
-			print("<td>")
-			print("<strong>")		
-			print(fields[0])
-			print("</strong><br>")
-			print(fields[1])
-			print("</td>")
+			if p[0] is not None:
+				fields = p[0].split("|")
+				print("<td>")
+				print("<strong>")		
+				print(fields[0])
+				print("</strong><br>")
+				print(fields[1])
+				print("</td>")
+			else:
+				print("<td>")
+				print("<strong>")		
+				print("")
+				print("</strong><br>")
+				print("")
+				print("</td>")
 
 			# Session B Paper
-			
-			fields = p[1].split("|")
-			print("<td>")
-			print("<strong>")		
-			print(fields[0])
-			print("</strong><br>")
-			print(fields[1])
-			print("</td>")
+			if p[1] is not None:
+				fields = p[1].split("|")
+				print("<td>")
+				print("<strong>")		
+				print(fields[0])
+				print("</strong><br>")
+				print(fields[1])
+				print("</td>")
+			else:
+				print("<td>")
+				print("<strong>")		
+				print("")
+				print("</strong><br>")
+				print("")
+				print("</td>")
 			# Terminate one paper row
 			print("</tr>")
 	return

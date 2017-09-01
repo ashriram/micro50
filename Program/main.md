@@ -139,7 +139,7 @@ Bharat Sukhwani:IBM Research ;Thomas Roewer:IBM Research ;Charles L. Haymes:IBM 
 <strong>
 UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition
 </strong><br>
-Reza Yazdani:Universitat Politecnica de Cataluny ;Jose-Maria Arnau:Universitat Politecnica de Cataluny ;Antonio Gonzalez:Universitat Politecnica de Cataluny
+Reza Yazdani:Universitat Politecnica de Catalunya ;Jose-Maria Arnau:Universitat Politecnica de Catalunya ;Antonio Gonzalez:Universitat Politecnica de Catalunya
 </td>
 </tr>
 <tr>
@@ -350,6 +350,21 @@ Hoda Naghibijouybari:University of California. Riverside ;Khaled Khasawneh:Unive
 </td>
 </tr>
 <tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+PageForge: A Near-Memory Content-Aware Page-Merging Architecture 
+</strong><br>
+Dimitrios Skarlatos:University of Illinois at Urbana-Champaign ;Nam Sung Kim:University of Illinois at Urbana-Champaign ;Josep Torrellas:University of Illinois at Urbana-Champaign
+</td>
+<td>
+<strong>
+
+</strong><br>
+
+</td>
+</tr>
+<tr>
 <td>12:00</td>
 <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Awards Lunch</strong></td>
 </tr>
@@ -364,8 +379,7 @@ Hoda Naghibijouybari:University of California. Riverside ;Khaled Khasawneh:Unive
 <strong>
 Distributed FPGA Acceleration for Learning
 </strong><br>
-Jongse Park:Georgia Institute of Technology ;Hardik Sharma:Georgia Institute of Technology ;Divya Mahajan:Georgia Institute of Technology ;Joon Kyung Kim:Georgia Institute of Technology ;Hadi Esmaeilzadeh:Georgia Institute of Technology
-</td>
+Jongse Park:Georgia Institute of Technology ;Hardik Sharma:Georgia Institute of Technology ;Divya Mahajan:Georgia Institute of Technology ;Joon Kyung Kim:Georgia Institute of Technology ;Hadi Esmaeilzadeh:University of California, San Diego
 <td>
 <strong>
 Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants 

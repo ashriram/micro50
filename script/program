@@ -30,7 +30,7 @@ Bharat Sukhwani:IBM Research ;Thomas Roewer:IBM Research ;Charles L. Haymes:IBM 
 <strong>
 UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition 
 </strong><br>
-Reza Yazdani:Universitat Politecnica de Cataluny ;Jose-Maria Arnau:Universitat Politecnica de Cataluny ;Antonio Gonzalez:Universitat Politecnica de Cataluny
+Reza Yazdani:Universitat Politecnica de Catalunya ;Jose-Maria Arnau:Universitat Politecnica de Catalunya ;Antonio Gonzalez:Universitat Politecnica de Catalunya
 </td>
 </tr>
 <tr>
@@ -208,6 +208,21 @@ Constructing and Characterizing Covert Channels on GPGPUs
 Hoda Naghibijouybari:University of California. Riverside ;Khaled Khasawneh:University of California. Riverside ;Nael Abu-Ghazaleh:University of California. Riverside
 </td>
 </tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<strong>
+PageForge: A Near-Memory Content-Aware Page-Merging Architecture 
+</strong><br>
+Dimitrios Skarlatos:University of Illinois at Urbana-Champaign ;Nam Sung Kim:University of Illinois at Urbana-Champaign ;Josep Torrellas:University of Illinois at Urbana-Champaign
+</td>
+<td>
+<strong>
+
+</strong><br>
+
+</td>
+</tr>
 ####4####
 <tr>
 <td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning</em></strong></td>
@@ -217,9 +232,9 @@ Hoda Naghibijouybari:University of California. Riverside ;Khaled Khasawneh:Unive
 <td>&nbsp;</td>
 <td>
 <strong>
-Distributed FPGA Acceleration for Learning
+	Scale-Out Acceleration for Machine Learning
 </strong><br>
-Jongse Park:Georgia Institute of Technology ;Hardik Sharma:Georgia Institute of Technology ;Divya Mahajan:Georgia Institute of Technology ;Joon Kyung Kim:Georgia Institute of Technology ;Hadi Esmaeilzadeh:Georgia Institute of Technology
+Jongse Park:Georgia Institute of Technology ;Hardik Sharma:Georgia Institute of Technology ;Divya Mahajan:Georgia Institute of Technology ;Joon Kyung Kim:Georgia Institute of Technology ;Hadi Esmaeilzadeh:University of California
 </td>
 <td>
 <strong>
