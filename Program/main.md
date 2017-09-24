@@ -29,6 +29,12 @@ table.blueTable .tdb, table.blueTable thd {
   padding: 3px 2px;
 }
 
+table.blueTable .tdk, table.blueTable thk {
+  border: 2px solid #AAAAAA;
+  padding: 3px 2px;
+}
+
+
 table.blueTable tbody td {
   font-size: 13px;
 }
@@ -95,7 +101,12 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>8:20</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Keynote 1: Krisztián Flautner, ARM &nbsp;</strong></td>
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 1: Krisztián Flautner, VP Technology, ARM <br> To a Trillion and Beyond: the Future of the Internet of Things </strong> <br></p> 
+  <p> As we move from an era of human-centric connectivity to a new machine-centric era, there are numerous opportunities to innovate, providing solutions that can scale to trillions of interconnected intelligent devices. The defining feature of this era will be that computers become invisible and move from attention-grabbing devices into the background. For some this is utopia, for others it conjures the imagery of George Orwell. This talk will examine the technology underpinnings of this interconnected future and explore how the notion of trust must evolve to keep pace with both engineering and social developments. </p>
+  <p> <strong>Bio: </strong>
+    Krisztián Flautner is vice president of technology at ARM. Previously, Kris was general manager of the Internet of Things Business Unit and VP of Research and Development at ARM. He is focused on new business opportunities and the proliferation of ARM technologies. He received a PhD in computer science and engineering, along with a number of other degrees, from the University of Michigan, where he has also served as a visiting scholar. He has authored or co-authored over 80 publications, including key contributions on computer architecture, software, and microarchitecture. Flautner received various best paper awards including the 2017 ISCA influential paper award for groundbreaking research in power-efficient computing, to show that at least one of these ideas received broad adoption by the industry and researchers alike.
+  </p>
+   </td>
 </tr>
 <tr>
 <td>9:20</td>
@@ -278,7 +289,15 @@ Zhaoxia Deng:University of California. Santa Barbara; Lunkai Zhang:University of
 </tr>
 <tr>
 <td>8:00</td>
-<td style="text-align: center;" colspan="2" class="tdb" ><strong>Keynote II: Doug Burger, Microsoft&nbsp;</strong></td>
+
+<td colspan="2" class="tdk" ><p align="center"><strong>Keynote 2: Doug Burger
+Distinguished Engineer (MSR NExT), Microsoft <br> Specialization and Accelerated AI at Hyperscale
+ </strong> <br></p> 
+  <p> We are in a new era of compute architecture, with specialization and heterogenity growing rapidly to meet computing requirements. The tension between scale, economics, and specialization is driving fierce debates and many experiments about the right path forward.  One of Microsoft's major efforts in this space has been to move to programmable hardware at global scale, to balance flexibility and efficiency as workloads--many of which need to be specialized--continue to evolve rapidly.  This has led to a new hyperscale architecture that we call a Configurable Cloud.  This talk will cover the reasons that Microsoft eventually chose this design, and will include the earlier failed attempts.  The talk will also show how this system can be used for accelerating large-scale services, in particular deep learning via the recently announced Project Brainwave platform.  The talk will conclude with some promising directions for both specialized architectures as a broad class and artificial intelligence workloads as an important specific class.  </p>
+  <p> <strong>Bio: </strong>
+    Doug Burger is a Distinguished Engineer at Microsoft, where he leads several research-to-production projects aimed at transforming the computing architecture of Microsoft's systems and devices.  With Derek Chiou, he co-leads the Catapult project, which is incorporating FPGA technology at large scale into Microsoft's cloud architecture.  His team also architected the Brainwave system, which is serving accelerated deep learning at large scale within Microsoft's cloud.  Before joining Microsoft in 2008, he spent ten years on the Computer Science faculty at the University of Texas at Austin, where he co-led the TRIPS project with Steve Keckler.  He is the recipient of the 2006 Maurice Wilkes Award, an IEEE Fellow, an ACM Fellow, an ex-athlete, and an avid father.
+  </p>
+   </td>
 </tr>
 <tr>
 <td>9:00</td>
