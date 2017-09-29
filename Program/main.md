@@ -127,12 +127,16 @@ table.blueTable tfoot .links a{
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124555">
 Banshee: Bandwidth-Efficient DRAM Caching Via Software/Hardware Cooperation
+</a>
 </strong><br>
 Xiangyao Yu:MIT; Christopher J. Hughes:Intel; Nadathur Satish:Intel; Onur Mutlu:ETH; Srinivas Devadas:MIT </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123983">
 UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More
+</a>
 </strong><br>
 Yuanwei Fang:University of Chicago; Chen Zou:University of Chicago; Aaron J. Elmore:University of Chicago; Andrew A. Chien:University of Chicago and Argonne National Laboratory
 </td>
@@ -141,13 +145,17 @@ Yuanwei Fang:University of Chicago; Chen Zou:University of Chicago; Aaron J. Elm
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124535">
 ConTutto - A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor
+</a>
 </strong><br>
 Bharat Sukhwani:IBM Research; Thomas Roewer:IBM Research; Charles L. Haymes:IBM Research; Kyu-Hyoun Kim:IBM Research; Adam J. McPadden:IBM; Daniel M. Dreps:IBM; Dean Sanner:IBM; Jan Van Lunteren:IBM Research; Sameh Asaad:IBM Research
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124542">
 UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition
+</a>
 </strong><br>
 Reza Yazdani:Universitat Politecnica de Catalunya; Jose-Maria Arnau:Universitat Politecnica de Catalunya; Antonio Gonzalez:Universitat Politecnica de Catalunya
 </td>
@@ -156,13 +164,17 @@ Reza Yazdani:Universitat Politecnica de Catalunya; Jose-Maria Arnau:Universitat 
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123945">
 Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content
+</a>
 </strong><br>
 Samira Khan:University of Virginia; Chris Wilkerson:Intel; Zhe Wang:Intel; Alaa Alameldeen:Intel; Donghyuk Lee:NVIDIA; Onur Mutlu:ETH Zurich
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123941">
 IDEAL: Image DEnoising AcceLerator
+</a>
 </strong><br>
 Mostafa Mahmoud:University of Toronto; Bojian Zheng:University of Toronto; Alberto Delmas Lascorz:University of Toronto;  Felix Heide: Stanford University/Algolux; Jonathan Assouline: Algolux; Paul Boucher: Algolux; Emmanuel Onzon: Algolux;Andreas Moshovos:University of Toronto
 </td>
@@ -171,13 +183,17 @@ Mostafa Mahmoud:University of Toronto; Bojian Zheng:University of Toronto; Alber
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124545">
 Fine-Grained DRAM: Energy Efficient DRAM for Extreme Bandwidth Systems
+</a>
 </strong><br>
 Mike O'Connor:NVIDIA / UT-Austin; Niladrish Chatterjee:NVIDIA; Donghyuk Lee:NVIDIA; John Wilson:NVIDIA; Aditya Agrawal:NVIDIA; Stephen W. Keckler:NVIDIA / UT-Austin; William J. Dally:NVIDIA / Stanford
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124551">
 Pipelining a Triggered Processing Element
+</a>
 </strong><br>
 Thomas J. Repetti:Columbia University; Joao Pedro Cerqueira:Columbia University; Martha A. Kim:Columbia University; Mingoo Seok:Columbia University
 </td>
@@ -199,13 +215,17 @@ Thomas J. Repetti:Columbia University; Joao Pedro Cerqueira:Columbia University;
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123950">
 Efficient Exception Handling Support for GPUs 
+</a>
 </strong><br>
 Ivan Tanasic:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center; Isaac Gelado:NVIDIA; Marc Jorda:Barcelona Supercomputing Center; Eduard Ayguade:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center; Nacho Navarro:Universitat Politecnica de Catalunya / Barcelona Supercomputing Center
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124539">
 Proteus: A Flexible and Fast Software Supported Hardware Logging approach for NVM 
+</a>
 </strong><br>
 Seunghee Shin:North Carolina State University; Satish Kumar Tirukkovalluri:North Carolina State University; James Tuck:North Carolina State University; Yan Solihin:North Carolina State University
 </td>
@@ -214,13 +234,17 @@ Seunghee Shin:North Carolina State University; Satish Kumar Tirukkovalluri:North
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124534">
 Beyond the Socket: NUMA-Aware GPUs 
+</a>
 </strong><br>
 Ugljesa Milic:Barcelona Supercomputing Center / Universitat Politecnica de Catalunya; Oreste Villa:Nvidia; Evgeny Bolotin:Nvidia; Akhil Arunkumar:Arizona State University; Eiman Ebrahimi:Nvidia; Aamer Jaleel:Nvidia; Alex Ramirez:Google; David Nellans:Nvidia
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124543">
 Efficient Support of Position Independence on Non-Volatile Memory 
+</a>
 </strong><br>
 Guoyang Chen:Qualcomm; Lei Zhang:NCSU; Richa Budhiraja:Qualcomm; Xipeng Shen:NCSU; Youfeng Wu:Intel
 </td>
@@ -229,12 +253,16 @@ Guoyang Chen:Qualcomm; Lei Zhang:NCSU; Richa Budhiraja:Qualcomm; Xipeng Shen:NCS
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123975">
 Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes
+</a>
 </strong><br>
 Rachata Ausavarungnirun:Carnegie Mellon University; Joshua Landgraf:UT Austin; Vance Miller:UT Austin; Saugata Ghose:Carnegie Mellon University; Jayneel Gandhi:VMware Research Group; Christopher J. Rossbach:UT Austin and VMware Research Group; Onur Mutlu:ETH Zurich and Carnegie Mellon University</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124533">
 Incidental Computing on IoT Nonvolatile Processors 
+</a>
 </strong><br>
 Kaisheng Ma: Penn State; Xuqing Li: Penn State; Jinyang Li:Tsinghua Univ.; Yongpan Liu: Tsinghua Univ.; Yuan Xie:UCSB; Jack Sampson:Penn State; Mahmut Taylan Kandemir:Penn State; Vijaykrishnan Narayanan:Penn State;
 </td>
@@ -243,13 +271,17 @@ Kaisheng Ma: Penn State; Xuqing Li: Penn State; Jinyang Li:Tsinghua Univ.; Yongp
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123974">
 RegLess: Just-in-Time Operand Staging for GPUs 
+</a>
 </strong><br>
 John Kloosterman:University of Michigan; Jon Beaumont:University of Michigan; Davoud Anoushe Jamshidi:University of Michigan; Jonathan Bailey:University of Michigan; Trevor Mudge:University of Michigan; Scott Mahlke:University of Michigan
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124553">
 Summarizer: Trading Communication with Computing Near Storage 
+</a>
 </strong><br>
 Gunjae Koo:University of Southern California; Kiran Kumar Matam:University of Southern California;  Te I:North Carolina State University; H. V. Krishna Giri Narra:University of Southern California; Jing Li:University of California. San Diego; Hung-Wei Tseng:North Carolina State University; Steven Swanson:University of California. San Diego; Murali Annavaram:University of Southern California
 </td>
@@ -258,13 +290,17 @@ Gunjae Koo:University of Southern California; Kiran Kumar Matam:University of So
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123953">
 SCRATCH: An End-to-end Application-aware Soft-GPGPU Architecture and Trimming Tool 
+</a>
 </strong><br>
 Pedro Duarte:Instituto de Telecomunicacoes. University of Coimbra. Portugal; Pedro Tomas:INESC-ID. Instituto Superior Tecnico. Universidade de Lisboa. Portugal; Gabriel Falcao:Instituto de Telecomunicacoes. University of Coimbra. Portugal
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124548">
 Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs 
+</a>
 </strong><br>
 Zhaoxia Deng:University of California. Santa Barbara; Lunkai Zhang:University of Chicago; Nikita Mishra:University of Chicago; Henry Hoffmann:University of Chicago; Fred Chong:University of Chicago
 </td>
@@ -318,13 +354,17 @@ Distinguished Engineer (MSR NExT), Microsoft <br> Specialization and Accelerated
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123985">
 A Many-core Architecture for In-Memory Data Processing 
+</a>
 </strong><br>
 Sandeep R Agrawal:Oracle Labs; Sam Idicula:Oracle Labs; Arun Raghavan:Oracle Labs; Evangelos Vlachos:Oracle Labs; Venkatraman Govindaraju:Oracle Labs; Venkatanathan Varadarajan:Oracle Labs; Cagri Balkesen:Oracle Labs; Georgios Giannikis:Oracle Labs; Charlie Roth:NXP; Nipun Agarwal:Oracle Labs; Eric Sedlar:Oracle Labs
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123972">
 RHMD: Evasion-Resilient Hardware Malware Detectors 
+</a>
 </strong><br>
 Khaled N. Khasawneh:University of California. Riverside; Nael Abu-Ghazaleh:University of California. Riverside; Dmitry Ponomarev:Binghamton University; Lei Yu:Binghamton University
 </td>
@@ -333,13 +373,17 @@ Khaled N. Khasawneh:University of California. Riverside; Nael Abu-Ghazaleh:Unive
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123986">
 Cache Automaton 
+</a>
 </strong><br>
 Arun Subramaniyan:University of Michigan; Jingcheng Wang:University of Michigan; Ezhil R. M. Balasubramanian:University of Michigan; David Blaauw:University of Michigan; Dennis Sylvester:University of Michigan; Reetuparna Das:University of Michigan
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123955">
 Software-based Gate-level Information Flow Security for IoT Systems 
+</a>
 </strong><br>
 Hari Cherupalli:University of Minnesota; Henry Duwe:University of Illinois; Weidong Ye:University of Illinois; Rakesh Kumar:University of Illinois; John Sartori:University of Minnesota
 </td>
@@ -348,13 +392,17 @@ Hari Cherupalli:University of Minnesota; Henry Duwe:University of Illinois; Weid
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124544">
 Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology 
+</a>
 </strong><br>
 Vivek Seshadri:Microsoft Research India; Donghyuk Lee:NVIDIA Research; Thomas Mullins:Intel; Hasan Hassan:ETH Zurich; Amirali Boroumand:CMU; Jeremie Kim:ETH Zurich; Michael A. Kozuch:Intel; Onur Mutlu:ETH Zurich; Phillip B. Gibbons:CMU; Todd C. Mowry:CMU
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124546">
 How secure is your cache against side-channel attacks? 
+</a>
 </strong><br>
 Zecheng He:Princeton University; Ruby B. Lee:Princeton University
 </td>
@@ -363,13 +411,17 @@ Zecheng He:Princeton University; Ruby B. Lee:Princeton University
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123977">
 DRISA: A DRAM-based Reconfigurable In-Situ Accelerator 
+</a>
 </strong><br>
 Shuangchen Li:University of California. Santa Barbara; Dimin Niu:Samsung; Krishna T. Malladi:Samsung; Hongzhong Zheng:Samsung; Bob Brennan:Samsung; Yuan Xie:University of California. Santa Barbara
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124538">
 Constructing and Characterizing Covert Channels on GPGPUs 
+</a>
 </strong><br>
 Hoda Naghibijouybari:University of California. Riverside; Khaled Khasawneh:University of California. Riverside; Nael Abu-Ghazaleh:University of California. Riverside
 </td>
@@ -378,7 +430,9 @@ Hoda Naghibijouybari:University of California. Riverside; Khaled Khasawneh:Unive
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124540">
 PageForge: A Near-Memory Content-Aware Page-Merging Architecture 
+</a>
 </strong><br>
 Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:University of Illinois at Urbana-Champaign; Josep Torrellas:University of Illinois at Urbana-Champaign
 </td>
@@ -408,12 +462,17 @@ Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:Uni
 <td>&nbsp;</td>
 <td>
 <strong>
-Scale-Out Acceleration for Machine Learning </strong><br>
+<a href="http://dl.acm.org/citation.cfm?id=3123979">
+Scale-Out Acceleration for Machine Learning 
+</a>
+</strong><br>
 Jongse Park:Georgia Institute of Technology; Hardik Sharma:Georgia Institute of Technology; Divya Mahajan:Georgia Institute of Technology; Joon Kyung Kim:Georgia Institute of Technology; Hadi Esmaeilzadeh:University of California, San Diego
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123943">
 Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants 
+</a>
 </strong><br>
 Abhishek Bhattacharjee:Rutgers University/Princeton University
 </td>
@@ -422,13 +481,17 @@ Abhishek Bhattacharjee:Rutgers University/Princeton University
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123982">
 Bit-Pragmatic Deep Neural Network Computing 
+</a>
 </strong><br>
 Jorge Albericio:NVIDIA; Patrick Judd:University of Toronto; Alberto Delmas:University of Toronto; Sayeh Sharify:University of Toronto; Gerard O'Leary:University of Toronto; Roman Genov:University of Toronto; Andreas Moshovos:University of Toronto
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123951">
 Load Value Prediction via Path-based Address Prediction: Avoiding Mispredictions due to Conflicting Stores 
+</a>
 </strong><br>
 Rami Sheikh:Qualcomm Technologies. Inc.; Harold W. Cain:Qualcomm Datacenter Technologies. Inc.; Raguram Damodaran:Qualcomm Technologies. Inc.
 </td>
@@ -437,13 +500,17 @@ Rami Sheikh:Qualcomm Technologies. Inc.; Harold W. Cain:Qualcomm Datacenter Tech
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124552">
 CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices 
+</a>
 </strong><br>
 Caiwen Ding:Syracuse University; Siyu Liao:City University of New York. City College; Yanzhi Wang:Syracuse University;Zhe Li:Syracuse University; Ning Liu:Syracuse University; Youwei Zhuo:University of Southern California;  Chao Wang:University of Southern California;Xuehai Qian:University of Southern California; Yu Bai:California State University Fullerton; Geng Yuan:Syracuse University; Xiaolong Ma:Syracuse University; Yipeng Zhang:Syracuse University; Jian Tang:Syracuse University; Qinru Qiu:Syracuse University; Xue Lin:Northeastern University; Bo Yuan:City University of New York. City College
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123942">
 Multiperspective Reuse Prediction 
+</a>
 </strong><br>
 Daniel A. JimŽnez:Texas A&M; Elvira Teran:Texas A&M
 </td>
@@ -464,13 +531,17 @@ Daniel A. JimŽnez:Texas A&M; Elvira Teran:Texas A&M
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124549">
 CSALT: Context Switch Aware Large TLB 
+</a>
 </strong><br>
 Yashwant Marathe:The University of Texas at Austin; Nagendra Gulur:Texas Instruments; Jee Ho Ryoo:The University of Texas at Austin; Shuang Song:The University of Texas at Austin; Lizy K. John:The University of Texas at Austin
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124537">
 Harnessing Voltage Margins for Energy Efficiency in Multicore CPUs 
+</a>
 </strong><br>
 George Papadimitriou:University of Athens; Manolis Kaliorakis:University of Athens; Athanasios Chatzidimitriou:University of Athens; Dimitris Gizopoulos:University of Athens; Peter Lawthers:AppliedMicro; Shidhartha Das:ARM
 </td>
@@ -479,13 +550,17 @@ George Papadimitriou:University of Athens; Manolis Kaliorakis:University of Athe
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124536">
 RTLCheck: Verifying the Memory Consistency of RTL Designs 
+</a>
 </strong><br>
 Yatin A. Manerkar:Princeton University; Daniel Lustig:NVIDIA; Margaret Martonosi:Princeton University; Michael Pellauer:NVIDIA
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123948">
 Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-efficient Video Streaming on Handhelds 
+</a>
 </strong><br>
 Haibo Zhang:Penn State; Prasanna Venkatesh Rengasamy:Penn State; Shulin Zhao:Penn State; Nachiappan Chidambaram Nachiappan:Penn State; Anand Sivasubramaniam:Penn State; Mahmut Kandemir:Penn State; Ravi Iyer:Intel; Chita R. Das:Penn State
 </td>
@@ -494,13 +569,17 @@ Haibo Zhang:Penn State; Prasanna Venkatesh Rengasamy:Penn State; Shulin Zhao:Pen
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123971">
 Architecting Hierarchical Coherence Protocols for Push-button Parametric Verification 
+</a>
 </strong><br>
 Opeoluwa Matthews:Duke University; Daniel J. Sorin:Duke University
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123944">
 BVF: Enabling Significant On-Chip Power Savings via Bit-Value-Favor for Throughput Processors 
+</a>
 </strong><br>
 Ang Li:Pacific Northwest National Laboratory; Wenfeng Zhao:University of Minnesota; Shuaiwen Leon Song:Pacific Northwest National Laboratory
 </td>
@@ -509,13 +588,17 @@ Ang Li:Pacific Northwest National Laboratory; Wenfeng Zhao:University of Minneso
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123946">
 PARSNIP: Performant Architecture for Race Safety with No Impact on Precision 
+</a>
 </strong><br>
 Yuanfeng Peng:University of Pennsylvania; Benjamin P. Wood:Wellesley College; Joseph Devietti:University of Pennsylvania
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124547">
 Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks 
+</a>
 </strong><br>
 Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
 </td>
@@ -547,13 +630,17 @@ Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124532">
 Unleashing the Power of GPU for Physically Based Rendering via Dynamic Ray Shuffling 
+</a>
 </strong><br>
 Yashuai Lv: Astronautical Engineering University; Libo Huang:National University of Defense Technology; Li Shen:National University of Defense Technology; Zhiying Wang:National University of Defense Technology
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123984">
 SchedTask: A Hardware-Assisted Task Scheduler 
+</a>
 </strong><br>
 Prathmesh Kallurkar:IIT Delhi; Smruti R. Sarangi:IIT Delhi
 </td>
@@ -562,13 +649,17 @@ Prathmesh Kallurkar:IIT Delhi; Smruti R. Sarangi:IIT Delhi
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123968">
 GPUpd: A Fast and Scalable Multi-GPU Architecture Using Cooperative Projection and Distribution 
+</a>
 </strong><br>
 Youngsok Kim:Seoul National University;Jae-Eon Jo:POSTECH;Hanhwi Jang:POSTECH;Minsoo Rhu:POSTECH;Hanjun Kim:POSTECH;Jangwoo Kim:Seoul National University
 </td>
 <td>
 <strong>
-Exploiting Heterogeneity for Tail Latency and Energy Efficiency 
+<a href="http://dl.acm.org/citation.cfm?id=3123956">
+Exploiting Heterogeneity for Tail Latency and Energy Efficiency
+</a> 
 </strong><br>
 Md E. Haque:Rutgers University; Yuxiong He:Microsoft Research; Sameh Elnikety:Microsoft Research; Thu D. Nguyen:Rutgers University; Ricardo Bianchini:Microsoft Research; Kathryn S. McKinley:Google
 </td>
@@ -577,13 +668,17 @@ Md E. Haque:Rutgers University; Yuxiong He:Microsoft Research; Sameh Elnikety:Mi
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123978">
 VersaPipe: A Versatile Programming Framework for Pipelined Computing on GPU 
+</a>
 </strong><br>
 Zhen Zheng:Tsinghua University; Chanyoung Oh:University of Seoul; Jidong Zhai:Tsinghua University; Xipeng Shen:North Carolina State University; Youngmin Yi:University of Seoul; Wenguang Chen:Tsinghua University
 </td>
 <td>
 <strong>
-TMI: Thread Memory Isolation for False Sharing Repair 
+<a href="http://dl.acm.org/citation.cfm?id=3123947">
+TMI: Thread Memory Isolation for False Sharing Repair
+</a> 
 </strong><br>
 Christian DeLozier:University of Pennsylvania; Ariel Eizenberg:University of Pennsylvania; Shiliang Hu:Intel; Gilles Pokam:Intel; Joseph Devietti:University of Pennsylvania
 </td>
@@ -592,13 +687,17 @@ Christian DeLozier:University of Pennsylvania; Ariel Eizenberg:University of Pen
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123976">
 WIREFRAME: Supporting Data-dependent Parallelism through Dependency Graph Execution in GPUs 
+</a>
 </strong><br>
 AmirAli Abdolrashidi:University of California Riverside; Devashree Tripathy:University of California Riverside; Mehmet Esat Belviranli:Oak Ridge National Laboratories; Daniel Wong:University of California Riverside; Laxmi Narayan Bhuyan:University of California Riverside
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124541">
 Estimating and Understanding Architectural Risk 
+</a>
 </strong><br>
 Weilong Cui:University of California. Santa Barbara; Timothy Sherwood:University of California. Santa Barbara
 </td>
@@ -616,13 +715,17 @@ Weilong Cui:University of California. Santa Barbara; Timothy Sherwood:University
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124550">
 Hybrid Analog-Digital Solution of Nonlinear Partial Differential Equations 
+</a>
 </strong><br>
 Yipeng Huang:Columbia University; Ning Guo:Columbia University; Mingoo Seok:Columbia University; Yannis Tsividis:Columbia University; Kyle Mandli:Columbia University; Simha Sethumadhavan:Columbia University
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3124554">
 Improving the Effectiveness of Searching for Isomorphic Chains in Superword Level Parallelism 
+</a>
 </strong><br>
 Joonmoo Huh:North Carolina State University; James Tuck:North Carolina State University
 </td>
@@ -631,13 +734,17 @@ Joonmoo Huh:North Carolina State University; James Tuck:North Carolina State Uni
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123940">
 Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction 
+</a>
 </strong><br>
 Swamit S. Tannu:Georgia Tech; Zachary A. Myers:Stanford; Prashant J. Nair:Georgia Tech; Douglas M. Carmean:Microsoft; Moinuddin K. Qureshi:Georgia Tech
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123954">
 Data Movement Aware Computation Partitioning 
+</a>
 </strong><br>
 Xulong Tang:Penn State; Orhan Kislal:Penn State; Mahmut Kandemir:Penn State; Mustafa Karakoy:TOBB University
 </td>
@@ -646,13 +753,17 @@ Xulong Tang:Penn State; Orhan Kislal:Penn State; Mahmut Kandemir:Penn State; Mus
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123949">
 Optimized Surface Code Communication in Superconducting Quantum Computers 
+</a>
 </strong><br>
 Ali Javadi-Abhari:Princeton University; Pranav Gokhale:University of Chicago; Adam Holmes:University of Chicago; Diana Franklin:University of Chicago; Kenneth R. Brown:Georgia Institute of Technology; Margaret Martonosi:Princeton University; Frederic T. Chong:University of Chicago
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123969">
 Mirage Cores: The Illusion of Many Out-of-order Cores Using In-order Hardware 
+</a>
 </strong><br>
 Shruti Padmanabha:University of Michigan; Andrew Lukefahr:University of Michigan; Reetuparna Das:University of Michigan; Scott Mahlke:University of Michigan
 </td>
@@ -661,13 +772,17 @@ Shruti Padmanabha:University of Michigan; Andrew Lukefahr:University of Michigan
 <td>&nbsp;</td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123980">
 Architectural Tradeoffs for Biodegradable Computing 
+</a>
 </strong><br>
 Ting-Jung Chang:Princeton University; Zhuozhi Yao:Princeton University; Paul J. Jackson:Princeton University; Barry P. Rand:Princeton University; David Wentzlaff:Princeton University
 </td>
 <td>
 <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3136952">
 Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performance of Task-Based Parallel Programs
+</a>
 </strong><br>
 Ji Kim:Cornell University; Shunning Jiang:Cornell University; Christopher Torng:Cornell University; Moyang Wang:Cornell University; Shreesha Srinath:Cornell University; Berkin Ilbeyi:Cornell University; Khalid Al-Hawaj:Cornell University; Christopher Batten:Cornell University
 </td>
@@ -678,19 +793,35 @@ Ji Kim:Cornell University; Shunning Jiang:Cornell University; Christopher Torng:
 </tr>
 <tr>
 <td></td>
-<td colspan="2"> <strong>Architectural Opportunities for Novel Dynamic EMI Shifting (DEMIS).</strong> Daphne I. Gorman:UC Santa Cruz; Jose Renau:UC Santa Cruz; Matthew Guthaus:UC Santa Cruz.  </td>
+<td colspan="2"> <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123973">
+Architectural Opportunities for Novel Dynamic EMI Shifting (DEMIS)
+</a>
+</strong> Daphne I. Gorman:UC Santa Cruz; Jose Renau:UC Santa Cruz; Matthew Guthaus:UC Santa Cruz.  </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"> <strong>DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission.</strong> Parker Hill:University of Michigan; Animesh Jain:University of Michigan; Mason Hill:University of Nevada, Las Vegas; Babak Zamirai:University of Michigan; Chang-Hong Hsu:University of Michigan; Michael Laurenzano:University of Michigan; Scott Mahlke:University of Michigan; Lingjia Tang:University of Michigan; Jason Mars:University of Michigan. </td>
+<td colspan="2"> <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123970">
+DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission
+</a>
+</strong> Parker Hill:University of Michigan; Animesh Jain:University of Michigan; Mason Hill:University of Nevada, Las Vegas; Babak Zamirai:University of Michigan; Chang-Hong Hsu:University of Michigan; Michael Laurenzano:University of Michigan; Scott Mahlke:University of Michigan; Lingjia Tang:University of Michigan; Jason Mars:University of Michigan. </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"> <strong>Hardware Supported Persistent Object Address Translation.</strong> Tiancong Wang:NC State University; Sakthikumaran Sambasivam:NC State University; Yan Solihin:NC State University; James Tuck:NC State University.  </td>
+<td colspan="2"> <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123981">
+Hardware Supported Persistent Object Address Translation
+</a>
+</strong> Tiancong Wang:NC State University; Sakthikumaran Sambasivam:NC State University; Yan Solihin:NC State University; James Tuck:NC State University.  </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"> <strong>An Experimental Microarchitecture for a Superconducting Quantum Processor.</strong> X. Fu: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; M. A. Rol: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. C. Bultink: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; H. van Someren: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; N. Khammassi: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; I. Ashraf: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; R. F. L. Vermeulen: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; J. C. de Sterke: Topic Embedded Systems / QuTech, Delft University of Technology; W. J. Vlothuizen: Netherlands Organisation for Applied Scienti c Research (TNO) / QuTech, Delft University of Technology; R. N. Schouten: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. G. Almudever: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; L. DiCarlo: QuTech, Delft University of Technology; Kavli Institute of Nanoscience, Delft University of Technology; K. Bertels: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology.  </td>
+<td colspan="2"> <strong>
+<a href="http://dl.acm.org/citation.cfm?id=3123952">
+An Experimental Microarchitecture for a Superconducting Quantum Processor
+</a>
+</strong> X. Fu: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; M. A. Rol: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. C. Bultink: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; H. van Someren: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; N. Khammassi: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; I. Ashraf: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; R. F. L. Vermeulen: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; J. C. de Sterke: Topic Embedded Systems / QuTech, Delft University of Technology; W. J. Vlothuizen: Netherlands Organisation for Applied Scienti c Research (TNO) / QuTech, Delft University of Technology; R. N. Schouten: QuTech, Delft University of Technology / Kavli Institute of Nanoscience, Delft University of Technology; C. G. Almudever: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology; L. DiCarlo: QuTech, Delft University of Technology; Kavli Institute of Nanoscience, Delft University of Technology; K. Bertels: QuTech, Delft University of Technology, Computer Engineering Lab, Delft University of Technology.  </td>
 </tr>
 <tr>
 <td>12:30</td>
