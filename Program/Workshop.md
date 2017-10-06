@@ -6,8 +6,8 @@ title: Program
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;color:#fff;background-color:#26ADE4;}
 .tg .tg-0rnh{background-color:#D2E4FC;font-weight:bold;text-align:center}
 .tg .tg-s6z2{text-align:center}
 .tg .tg-vn4c{background-color:#D2E4FC}
@@ -23,11 +23,14 @@ title: Program
     <th class="tg-hgcj" colspan="2">Sunday (Oct 15) </th>
   </tr>
   <tr>
+    <th class="tg-hgcj" colspan="5"> Breakfast (7:30-8:30AM). Lunch (12-1pm). Break (3-3:30pm) </th>
+  </tr>
+  <tr>
     <td class="tg-0rnh">Room</td>
-    <td class="tg-0rnh">Morning</td>
-    <td class="tg-0rnh">Afternoon</td>
-    <td class="tg-0rnh">Morning</td>
-    <td class="tg-vv7f">Afternoon</td>
+    <td class="tg-0rnh">Morning (8:30AM-12:00pm)</td>
+    <td class="tg-0rnh">Afternoon (1pm-5pm)</td>
+    <td class="tg-0rnh">Morning (8:30AM-12:00pm)</td>
+    <td class="tg-vv7f">Afternoon (1pm-5pm)</td>
   </tr>
   <tr>
     <td class="tg-s6z2">1</td>

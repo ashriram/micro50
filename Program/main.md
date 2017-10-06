@@ -87,6 +87,16 @@ table.blueTable tfoot .links a{
 <thead>
 <tr>
 <th>Start time</th>
+<th colspan="2" align="center" >Sunday Oct 15, 2017 </th>
+</tr>
+</thead>
+<tr>
+<td>6:00</td>
+<td colspan="2" align="center" class = "tdb"><strong>Evening Reception </strong><br /><strong>Room:</strong></td>
+</tr>
+<thead>
+<tr>
+<th>Start time</th>
 <th colspan="2" align="center" >Monday Oct 16, 2017 </th>
 </tr>
 </thead>
@@ -311,7 +321,11 @@ Zhaoxia Deng:University of California. Santa Barbara; Lunkai Zhang:University of
 </tr>
 <tr>
 <td>17:00</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Evening Panel and Social Event &nbsp;&nbsp;</strong></td>
+<td class="tdb" colspan="2"><strong>&nbsp;Evening Panel and Social Event &nbsp;&nbsp; </strong> <br>  Arvind
+    Bob Colwell
+    Phil Emma
+    Josh Fisher: Moderator: Srini Devadas
+ </td>
 </tr>
 <thead>
 <tr>
