@@ -91,7 +91,7 @@ table.blueTable tfoot .links a{
 </tr>
 </thead>
 <tr>
-<td>6:00</td>
+<td>5:00pm</td>
 <td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: Empress Room (14th Floor) </strong></td>
 </tr>
 <thead>
@@ -471,8 +471,8 @@ Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:Uni
 <td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Awards Presentations</strong></td>
 </tr>
 <tr>
-<td>14:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Break </strong></td>
+<td>14:20</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Break/Room reconfiguration  </strong></td>
 </tr>
 <tr>
 <td>14:30</td>
@@ -725,7 +725,7 @@ Weilong Cui:University of California. Santa Barbara; Timothy Sherwood:University
 </tr>
 <tr>
 <td>9:20</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Break</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Break  </strong></td>
 </tr>
 <tr>
 <td>9:30</td>
@@ -807,6 +807,10 @@ Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performa
 </strong><br>
 Ji Kim:Cornell University; Shunning Jiang:Cornell University; Christopher Torng:Cornell University; Moyang Wang:Cornell University; Shreesha Srinath:Cornell University; Berkin Ilbeyi:Cornell University; Khalid Al-Hawaj:Cornell University; Christopher Batten:Cornell University
 </td>
+</tr>
+<tr>
+<td>10:50</td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Break/Room reconfiguration </strong></td>
 </tr>
 <tr>
 <td>11:10</td>
