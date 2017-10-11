@@ -92,7 +92,7 @@ table.blueTable tfoot .links a{
 </thead>
 <tr>
 <td>6:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Evening Reception </strong><br /><strong>Room:</strong></td>
+<td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: Empress Room (14th Floor) </strong></td>
 </tr>
 <thead>
 <tr>
@@ -103,7 +103,9 @@ table.blueTable tfoot .links a{
 <tbody>
 <tr>
 <td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: 
+Thomas Paine and Riverside Pavillion
+</strong></td>
 </tr>
 <tr>
 <td>8:00</td>
@@ -130,7 +132,7 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>10:40</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>1-A DRAM. Daniel Jimenez,  TAMU</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>1-A DRAM. Daniel Jimenez,  TAMU</em> <br> Ballroom ABC </strong></td>
 <td style="background-color: light blue;" class="tdb"><strong><em>1-B Accelerators. Krste Asanovic,  Berkeley</em></strong></td>
 </tr>
 <tr>
@@ -210,16 +212,21 @@ Thomas J. Repetti:Columbia University; Joao Pedro Cerqueira:Columbia University;
 </tr>
 <tr>
 <td>12:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Lunch &nbsp;&nbsp;</strong></td>
+<td style="text-align: center;" colspan="2"><strong>&nbsp;Lunch &nbsp;&nbsp; Room: Thomas Paine and Riverside Pavillion
+Ballroom </strong></td>
 </tr>
 <tr>
 <td>13:00</td>
-<td style="text-align: center;" colspan="2"><strong>&nbsp;Legends of MICRO &nbsp;&nbsp;</strong></td>
+<td style="text-align: center;" colspan="2"><strong>&nbsp;Legends of MICRO &nbsp;&nbsp;
+<br>
+Panel: Legends of MICRO</strong><br>
+"A Retrospective on 50 Years of MICRO", <br>Moderator: Rich Belgard Panelists:<br> Tom Conte, Matt Farrens, Gearold Johnson, Yale Patt, Nick Tredennick
+</td>
 </tr>
 <tr>
 <td>14:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-A GPUs-I. Brad Beckman,  AMD</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>2-B Non-Volatile Memory/Storage.  Samira Khan, U. Virgina</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-A GPUs-I. Brad Beckman,  AMD</em> <br> Ballroom ABC </strong> </td>
+<td style="background-color: light blue;" class="tdb"><strong><em>2-B Non-Volatile Memory/Storage.  Samira Khan, U. Virgina</em> <br> Ballroom D </strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -335,7 +342,7 @@ Zhaoxia Deng:University of California. Santa Barbara; Lunkai Zhang:University of
 </thead>
 <tr>
 <td>7:00</td>
-<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room:</strong></td>
+<td colspan="2" align="center" class = "tdb"><strong>Breakfast </strong><br /><strong>Room: Thomas Paine, Haym Salomon and Riverside Pavillion</strong></td>
 </tr>
 <tr>
 <td>8:00</td>
@@ -361,8 +368,8 @@ Distinguished Engineer (MSR NExT), Microsoft <br> Specialization and Accelerated
 </tr>
 <tr>
 <td>10:20</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-A In/Near Memory Computing. David Wood,  U. Wisconsin</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>3-B Security. Chris Fletcher,  UIUC</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-A In/Near Memory Computing. David Wood,  U. Wisconsin</em></strong> <br> Ballroom ABC  </td>
+<td style="background-color: light blue;" class="tdb"><strong><em>3-B Security. Chris Fletcher,  UIUC</em> <br> Ballroom D</strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -457,7 +464,7 @@ Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:Uni
 </tr>
 <tr>
 <td>12:00</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Lunch</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp; Lunch <br> Thomas Paine and Riverside Pavillion  </strong></td>
 </tr>
 <tr>
 <td>13:00</td>
@@ -469,8 +476,8 @@ Dimitrios Skarlatos:University of Illinois at Urbana-Champaign; Nam Sung Kim:Uni
 </tr>
 <tr>
 <td>14:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning.  Vivienne Sze,  MIT</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>4-B Prediction. Alaa Alameldeen, Intel</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-A Deep Learning.  Vivienne Sze,  MIT</em> <br> Ballroom ABC </strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>4-B Prediction. Alaa Alameldeen, Intel</em> <br> Ballroom D </strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -538,8 +545,8 @@ Daniel A. JimŽnez:Texas A&M; Elvira Teran:Texas A&M
 
 <tr>
   <td>15:50</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-A Consistency/Coherency Translation. Abhishek Bhatacharjee,  Rutgers</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>5-B Energy. Bobbie Manne,  Cavium</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-A Consistency/Coherency Translation. Abhishek Bhatacharjee,  Rutgers</em> <br> Ballroom ABC </strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>5-B Energy. Bobbie Manne,  Cavium</em></strong> <br> Ballroom D </td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -619,11 +626,11 @@ Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
 </tr>
 <tr>
 <td>17:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Break and Poster Session&nbsp;&nbsp;</strong></td>
+<td class="tdb" colspan="2"><strong>&nbsp;Break and Poster Session&nbsp;&nbsp;<br> Thomas Paine and Riverside Pavillion </strong></td>
 </tr>
 <tr>
 <td>18:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp;</strong></td>
+<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: Ballroom: D </strong></td>
 </tr>
 <thead>
 <tr>
@@ -637,8 +644,8 @@ Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
 </tr>
 <tr>
 <td>8:00</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-A GPUs-II. Michael Pellauer, Nvidia</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>6-B OS and System Design. Nathan Beckman,  CMU</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-A GPUs-II. Michael Pellauer, Nvidia</em> <br> Ballroom ABC </strong> </td>
+<td style="background-color: light blue;" class="tdb"><strong><em>6-B OS and System Design. Nathan Beckman,  CMU</em> <br> Ballroom D </strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -722,8 +729,8 @@ Weilong Cui:University of California. Santa Barbara; Timothy Sherwood:University
 </tr>
 <tr>
 <td>9:30</td>
-<td style="background-color: light blue;" class="tdb"><strong><em>7-A Unconventional Architectures. Hadi Esmailzadeh,  Georgia Tech</em></strong></td>
-<td style="background-color: light blue;" class="tdb"><strong><em>7-B Compilers and Microarchitecture. Milos Prvulovic,  Georgia Tech</em></strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>7-A Unconventional Architectures. Hadi Esmailzadeh,  Georgia Tech</em> <br> Ballroom ABC </strong></td>
+<td style="background-color: light blue;" class="tdb"><strong><em>7-B Compilers and Microarchitecture. Milos Prvulovic,  Georgia Tech</em> <br> Ballroom D </strong></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -803,7 +810,7 @@ Ji Kim:Cornell University; Shunning Jiang:Cornell University; Christopher Torng:
 </tr>
 <tr>
 <td>11:10</td>
-<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Nominees. Margaret Martonosi, Princeton</strong></td>
+<td style="text-align: center;" colspan="2" class="tdb"><strong>&nbsp;Best Paper Nominees. Margaret Martonosi, Princeton <br> Ballroom </strong></td>
 </tr>
 <tr>
 <td></td>

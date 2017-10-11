@@ -143,6 +143,11 @@ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';i
           <td height="9" align="center" valign="top" width="207">
             <img border="0" src="{{ site.baseurl }}/images/Samsung.png" height="60">
           </td>
+          <tr>
+            <td>
+            <img border="0" src="{{ site.baseurl }}/images/Nvidia.png" height="60">
+          </td>
+          <tr>
         </tr>
 
 
