@@ -68,7 +68,11 @@ title: Program
 | Women and Minorities     	|   	| [Career Workshop for Women and Minorities in Computer Architecture](https://www.cs.virginia.edu/~smk9u/cwwmca2017/home.htm)       	| Valentina, Zehra, Alan                                              	| IBM                                    	|
 | CARRV                    	|   	| [First Workshop on RISC-V for Computer Architecture Research (CARRV)](https://carrv.github.io/)     	| Silviu, Arun, Arvind                                                	| BAE, MIT                               	|
 | Cognitive Edge Computing 	|   	| [Cognitive Edge Computing](http://cogedge.ece.utexas.edu/)                                                 	| Ravi Iyer, Nilesh Jain, VJ Reddi, Yuhao Zhu                                    	| Intel, Google, UT Austin, University of Rochester               	|
-| NOPE                     	|   	| [Workshop On Negative Outcomes, Post-mortems, and Experiences](http://nope.pub/)            	| David Brooks                                                        	| Harvard                                	|
+| NOPE                     	|   	| [Workshop On Negative Outcomes, Post-mortems, and Experiences](http://nope.pub/)            	| Brandon Reagen, Harvard
+Svilen Kanev, Google
+Bob Adolf, Harvard
+David Brooks, Harvard
+                       	|                                	|
 |                          	|   	|                                                                         	|                                                                     	|                                        	|
 {: .table .table-striped }
 

@@ -92,7 +92,8 @@ table.blueTable tfoot .links a{
 </thead>
 <tr>
 <td>5:00pm</td>
-<td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: Empress Room (14th Floor) </strong></td>
+<td colspan="2" align="center" class = "tdb"><strong>Welcome Reception </strong><br /><strong>Room: Charles View Ballroom (16th floor)
+ </strong></td>
 </tr>
 <thead>
 <tr>
