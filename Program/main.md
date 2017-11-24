@@ -83,6 +83,8 @@ table.blueTable tfoot .links a{
 }
 </style>
 
+
+
 <table class="blueTable" border="2"><colgroup> <col style="width:5%;"> <col style="width:40%;"> <col style="width:40%;"> </colgroup>
 <thead>
 <tr>
@@ -631,7 +633,10 @@ Aditya Agrawal:UIUC; Josep Torrellas:UIUC; Sachin Idgunji:Nvidia
 </tr>
 <tr>
 <td>18:20</td>
-<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: Ballroom: D </strong></td>
+<td class="tdb" colspan="2"><strong>&nbsp;Business Meeting&nbsp;&nbsp; Room: Ballroom: D 
+<a href = "https://www.microarch.org/businessmtg/micro50/micro2017-business_meeting-final.pdf"> Charts: </a>
+<a href="https://www.microarch.org/businessmtg/micro50/micro2017-business_meeting_notes.pdf"> Notes: </a>
+</strong></td>
 </tr>
 <thead>
 <tr>
